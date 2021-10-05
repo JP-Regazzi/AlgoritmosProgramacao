@@ -1,0 +1,1735 @@
+1º	Tarcisio Motta	PSOL		27428	3,51%
+2º	Carlos Bolsonaro	REPUBLICANOS		21166	2,71%
+3º	Cesar Maia	DEM		17520	2,24%
+4º	Gabriel Monteiro	PSD		17333	2,22%
+5º	Chico Alencar	PSOL		15600	2,00%
+6º	Marcos Braz	PL		12398	1,59%
+7º	Lindbergh Farias	PT	INAPTO	7919	1,01%
+8º	Rafael Aloisio Freitas	CIDADANIA		7886	1,01%
+9º	Tainá de Paula	PT		7876	1,01%
+10º	Inaldo Silva	REPUBLICANOS		7296	0,93%
+11º	Monica Benicio	PSOL		7175	0,92%
+12º	Junior da Lucinha	PL		6925	0,89%
+13º	João Mendes de Jesus	REPUBLICANOS		6770	0,87%
+14º	Marcio Ribeiro	AVANTE		6359	0,81%
+15º	Carlo Caiado	DEM		6318	0,81%
+16º	Luciano Vieira	AVANTE		5947	0,76%
+17º	Verônica Costa	DEM		5596	0,72%
+18º	Thiago K Ribeiro	DEM		5536	0,71%
+19º	Reimont	PT		5527	0,71%
+20º	Felipe Michel	PP		5516	0,71%
+21º	Alexandre Isquierdo	DEM		5339	0,68%
+22º	Vera Lins	PP		5333	0,68%
+23º	Luciano Medeiros	PL		5291	0,68%
+24º	Tânia Bastos	REPUBLICANOS		5269	0,67%
+25º	Marcelino D&apos;almeida	PP		5060	0,65%
+26º	Paulo Pinheiro	PSOL		5056	0,65%
+27º	Jorge Felippe	DEM		5027	0,64%
+28º	Jairinho	SOLIDARIEDADE		5009	0,64%
+29º	Rosa Fernandes	PSC		4940	0,63%
+30º	Luiz Carlos Ramos Filho	PMN		4787	0,61%
+31º	Teresa Bergher	CIDADANIA		4767	0,61%
+32º	Luciana Novaes	PT		4763	0,61%
+33º	Professor Adalmir	PP		4591	0,59%
+34º	Thais Ferreira	PSOL		4468	0,57%
+35º	Dr. Carlos Eduardo	PODE		4259	0,55%
+36º	Laura Carneiro	DEM		3802	0,49%
+37º	Elika Takimoto	PT		3725	0,48%
+38º	Marcelo Arar	PTB		3677	0,47%
+39º	Felipe Boró	PATRIOTA		3595	0,46%
+40º	Dr João Ricardo	PSC		3504	0,45%
+41º	Doutor Jorge Manaia	PP		3461	0,44%
+42º	Renato Moura	PATRIOTA		3363	0,43%
+43º	Jones Moura	PSD		3348	0,43%
+44º	Átila A Nunes	DEM		3275	0,42%
+45º	Pedro Duarte	NOVO		3238	0,41%
+46º	Zico	REPUBLICANOS		3139	0,40%
+47º	David Mariano	PSC		3010	0,39%
+48º	Marcello Siciliano	PP		2985	0,38%
+49º	Letícia Arsenio	NOVO		2959	0,38%
+50º	Antonia Leite Barbosa	CIDADANIA		2912	0,37%
+51º	Wellington Dias	PDT		2905	0,37%
+52º	Luciana Boiteux	PSOL		2854	0,37%
+53º	Willian Coelho	DC		2854	0,37%
+54º	Alexandre Oliveira	PTC		2815	0,36%
+55º	Dr Gilberto	PTC		2770	0,35%
+56º	Dr Marcos Paulo	PSOL		2752	0,35%
+57º	George Neder	NOVO		2713	0,35%
+58º	Renato Pellizzari	PSB		2546	0,33%
+59º	William Siri	PSOL		2479	0,32%
+60º	Eliseu Kessler	PSD		2470	0,32%
+61º	Monica Cunha	PSOL		2469	0,32%
+62º	Marcio Santos de Araujo	PTB		2351	0,30%
+63º	Tiãozinho do Jacaré	REPUBLICANOS		2252	0,29%
+64º	Arthur Correa	PSL		2221	0,28%
+65º	Zico Bacana	PODE		2209	0,28%
+66º	Matheus Floriano	PSD		2155	0,28%
+67º	Cleibe do Rio	REPUBLICANOS		2128	0,27%
+68º	Pablo Mello	REPUBLICANOS		2089	0,27%
+69º	Eliel do Carmo	DC		2033	0,26%
+70º	Jorge Pereira	AVANTE		2008	0,26%
+71º	Jair da Mendes Gomes	PROS		2008	0,26%
+72º	Leonel Brizola Neto	PSOL		1993	0,26%
+73º	Andre Monteiro	PMN		1992	0,26%
+74º	Rogério Amorim	PSL		1959	0,25%
+75º	Patricia Felix	PSOL		1954	0,25%
+76º	Rodrigo Vizeu	PATRIOTA		1928	0,25%
+77º	Professor Marcello Barbosa	PTB		1890	0,24%
+78º	Dr Marcus Guedes	REPUBLICANOS		1791	0,23%
+79º	Soraya Moreno	PSC		1783	0,23%
+80º	Waldir Brazão	AVANTE		1735	0,22%
+81º	Chris da Quatropatinhas	PL		1716	0,22%
+82º	Sargento Alexandre Martins	AVANTE		1614	0,21%
+83º	Guilherme Bencardino	PMN		1570	0,20%
+84º	Jimmy Pereira	PRTB		1558	0,20%
+85º	Vitor Hugo	MDB		1556	0,20%
+86º	Roberto Motta	PSC		1542	0,20%
+87º	Italo Ciba	AVANTE		1536	0,20%
+88º	Fatima da Solidariedade	SOLIDARIEDADE		1532	0,20%
+89º	Chagas Bola	PSL		1522	0,19%
+90º	Prof Uoston	MDB		1513	0,19%
+91º	Marcelo Maywald	REPUBLICANOS		1502	0,19%
+92º	Kito da Creche	DEM		1460	0,19%
+93º	André Barros	PSOL		1458	0,19%
+94º	Rocal	PSD		1432	0,18%
+95º	Prof Célio Lupparelli	DEM		1392	0,18%
+96º	Josué da Gamir	PTB		1388	0,18%
+97º	Edson Santos	PT		1360	0,17%
+98º	Marcelinho do Ciep	PC DO B		1355	0,17%
+99º	Ronaldo Moreira Acs	CIDADANIA		1353	0,17%
+100º	Vinicius Cordeiro	AVANTE		1351	0,17%
+101º	Márcia Nunes	PMN		1349	0,17%
+102º	Almir Napoleão	DC		1345	0,17%
+103º	Dr. Cury Habib	PMB		1344	0,17%
+104º	Otoni de Paula Pai	SOLIDARIEDADE		1310	0,17%
+105º	Renato Cinco	PSOL		1306	0,17%
+106º	Everton Gomes	PDT		1300	0,17%
+107º	S Ferraz	PL		1298	0,17%
+108º	Professor Zé Paulo	PTB		1297	0,17%
+109º	Armed Rio	CIDADANIA		1288	0,16%
+110º	Sol	PSOL		1269	0,16%
+111º	Alberto Szafran	PSL		1259	0,16%
+112º	Neto Bronson	PROS		1256	0,16%
+113º	Adriana Balthazar	NOVO		1253	0,16%
+114º	Eduardo Badu	REPUBLICANOS		1177	0,15%
+115º	Ruan Lira	PSC		1176	0,15%
+116º	Jorge Melo	CIDADANIA		1167	0,15%
+117º	Wallace Pala Pala	PMN		1166	0,15%
+118º	Coletivas	REDE		1164	0,15%
+119º	Artur Franco	DC		1157	0,15%
+120º	Jota Marques	PSOL		1143	0,15%
+121º	Andréa Bak	PSOL		1135	0,15%
+122º	Prof Jonatas Castelo Branco	PSC		1112	0,14%
+123º	Soneka Ribeiro	PTB		1101	0,14%
+124º	Sancler Mello	PODE		1098	0,14%
+125º	Almeida do Progresso	PTC		1092	0,14%
+126º	Gerson Paulo	DC		1087	0,14%
+127º	Coletiva Bem Viver	PSOL		1087	0,14%
+128º	Vicente Reis	PRTB		1075	0,14%
+129º	Vitor Almeida	PDT		1052	0,13%
+130º	Robson do Chocolate	PT		1039	0,13%
+131º	Miguel Junior	PTC		1023	0,13%
+132º	Vanessa da Bancada do Livro	CIDADANIA		1005	0,13%
+133º	Canela Lado A Lado	PMN		1004	0,13%
+134º	Ulisses Marins	REPUBLICANOS		1001	0,13%
+135º	Cassius Clay	REPUBLICANOS		1000	0,13%
+136º	Delegada Adriana Belem	PSC		998	0,13%
+137º	Professor Felipe Ribeiro	MDB		984	0,13%
+138º	Edson Zanata	REPUBLICANOS		965	0,12%
+139º	Alexandre Beça	DEM		952	0,12%
+140º	Luis Gustavo	CIDADANIA		946	0,12%
+141º	Thiago Cesario Alvim	DEM		945	0,12%
+142º	Daniel Mofacto	PSL		940	0,12%
+143º	Dj Tubarão	REPUBLICANOS		935	0,12%
+144º	Franklin	PSL		933	0,12%
+145º	Leandro Lyra	REPUBLICANOS		932	0,12%
+146º	Alex Braz	REPUBLICANOS		928	0,12%
+147º	Gesiel O Pingo	PATRIOTA		915	0,12%
+148º	Alberto da Dezessete	DEM		909	0,12%
+149º	Robinho	MDB		909	0,12%
+150º	A Liga Candidatura Coletiva	PSB		907	0,12%
+151º	Dr. Sérgio Alves	PROS		902	0,12%
+152º	Enfermeiro Glauber Amancio	PC DO B		889	0,11%
+153º	Pr Jose de Souza	MDB		886	0,11%
+154º	Alexandre Arraes	PODE		878	0,11%
+155º	Joaquim Rodrigues	DC		878	0,11%
+156º	Marcelo Diniz	SOLIDARIEDADE		877	0,11%
+157º	Carminha Jerominho	PMB		871	0,11%
+158º	Alan Lopes	PSD		871	0,11%
+159º	Fernando William	PDT		864	0,11%
+160º	Evandreza	AVANTE		863	0,11%
+161º	Marcelão de Sepetiba	PROS		851	0,11%
+162º	Cesar Daflon	REPUBLICANOS		849	0,11%
+163º	Delon da Juventude	PP		845	0,11%
+164º	Jorge Mauro	PMN		841	0,11%
+165º	Nilma Caldeira	PL		837	0,11%
+166º	Cassetti	DEM		835	0,11%
+167º	Bia Aquino	AVANTE		808	0,10%
+168º	Delegado Rafael Barcia	PSC		804	0,10%
+169º	Janayna Rodrigues	PTB		795	0,10%
+170º	Eduardâo	REPUBLICANOS		793	0,10%
+171º	Giovanna Almeida	UP		792	0,10%
+172º	Niquinho	PT		791	0,10%
+173º	Prof Edmundo Eutrópio	NOVO		781	0,10%
+174º	Capitao Portella	SOLIDARIEDADE		780	0,10%
+175º	Del	SOLIDARIEDADE		770	0,10%
+176º	Indianarae Siqueira	PT		770	0,10%
+177º	Ricardo Tavares	PRTB		763	0,10%
+178º	Junior Mangueira	PMN		763	0,10%
+179º	Eng.anderson Nito	PODE		759	0,10%
+180º	Livia Bonates	NOVO		752	0,10%
+181º	Pastor Sergio Alves	PMN		746	0,10%
+182º	Marcelo Fritz	PTB		746	0,10%
+183º	Claudinho do Som	DC		743	0,10%
+184º	Cristina Rando	NOVO		742	0,10%
+185º	Maria dos Camelôs	PSOL		741	0,09%
+186º	Marquinho Robot	DC		736	0,09%
+187º	Delegado Brenno Carnevale	CIDADANIA		734	0,09%
+188º	Edimar Teixeira	AVANTE		725	0,09%
+189º	Davy Albuquerque	REPUBLICANOS		723	0,09%
+190º	Romarinho	PODE		709	0,09%
+191º	Rodrigo Jj	PL		707	0,09%
+192º	Caio Andrade	PCB		707	0,09%
+193º	Professor Rogerio Duarte	SOLIDARIEDADE		699	0,09%
+194º	Ten Nilton da Silva	PSL		697	0,09%
+195º	Coronel Rabelo	REPUBLICANOS		696	0,09%
+196º	Wellington Paciência	PTB		695	0,09%
+197º	Bruno Mega	NOVO		688	0,09%
+198º	Adriano Bernardo	DC		687	0,09%
+199º	Marcio Ayer	PC DO B		686	0,09%
+200º	Sorato	AVANTE		680	0,09%
+201º	Carlinhos da Maré	PL		676	0,09%
+202º	Dr Bernardo	PSD		674	0,09%
+203º	Major Elitusalem	PSC		672	0,09%
+204º	Marcio Hugo	PTC		671	0,09%
+205º	Tatiana Rocha	NOVO		671	0,09%
+206º	Rubens Teixeira	PATRIOTA		670	0,09%
+207º	Babá	PSOL		666	0,09%
+208º	Mattos Nascimento	SOLIDARIEDADE		660	0,08%
+209º	Paiva	PTB		660	0,08%
+210º	Bira	DC	INAPTO	652	0,08%
+211º	Mauricio Werner	AVANTE		649	0,08%
+212º	Chris Aguiar	CIDADANIA		646	0,08%
+213º	Paulo Ciro	REPUBLICANOS		644	0,08%
+214º	Edmilson Bombeiro	PTB		644	0,08%
+215º	Professor Alexandre Prado	CIDADANIA		642	0,08%
+216º	Dani Oliveira	PROS		640	0,08%
+217º	Alfredinho	PRTB		634	0,08%
+218º	Wallace O Abençoado	PSC		627	0,08%
+219º	Carlos Cajazeira	DEM		626	0,08%
+220º	Renatinho	DEM		618	0,08%
+221º	Serginho da Pastelaria	MDB		618	0,08%
+222º	Rogeria Bolsonaro	REPUBLICANOS		614	0,08%
+223º	Marcelo do Taxi	PRTB		612	0,08%
+224º	Alexandre Zibenberg	PATRIOTA		612	0,08%
+225º	Toninho Bondade	PDT		611	0,08%
+226º	Campanha Delas	PC DO B		610	0,08%
+227º	Celso Bruxa	AVANTE		607	0,08%
+228º	Guilherme Cohen	PSB		607	0,08%
+229º	Francisco Budal	PSB		605	0,08%
+230º	Professora Camila Cristal	PSDB		601	0,08%
+231º	Celso Costa	REPUBLICANOS		598	0,08%
+232º	André Rios	PATRIOTA		597	0,08%
+233º	Alex do Salgado	AVANTE		596	0,08%
+234º	Jonathan Santana	REPUBLICANOS		593	0,08%
+235º	Rafael Batuta	DEM		588	0,08%
+236º	Roberto Dinamite	DC		582	0,07%
+237º	Jeremias Di Caetes	PSD		581	0,07%
+238º	Edmilson Silvestre	PTB		579	0,07%
+239º	Bruno Jesus	PV		576	0,07%
+240º	Washington Santos	SOLIDARIEDADE		567	0,07%
+241º	Defensor Marcos Lang	PSDB		565	0,07%
+242º	Sargento Valentim	REPUBLICANOS	INAPTO	562	0,07%
+243º	Junior da Ong	PTB		561	0,07%
+244º	Leo Pinto	PTB		549	0,07%
+245º	Cynthia Vallim	PSB		548	0,07%
+246º	Victor Poubel	CIDADANIA		546	0,07%
+247º	Elen Ferreira	PC DO B		544	0,07%
+248º	Wagner Siqueira	DEM	INAPTO	543	0,07%
+249º	Marcelo da Internet	PSB		542	0,07%
+250º	Comandante Adonis	PSL		539	0,07%
+251º	Leonardo Teco	PATRIOTA		539	0,07%
+252º	Dra Angelica Rocha	CIDADANIA		537	0,07%
+253º	Nilce Fran A Coca	PP		532	0,07%
+254º	Davi Pqd	PATRIOTA		532	0,07%
+255º	Ailton Barros	PRTB		524	0,07%
+256º	Nido da Padaria	REPUBLICANOS		524	0,07%
+257º	Gugu Quarenta	PSL		517	0,07%
+258º	Felipe Berin	PSB		513	0,07%
+259º	Junior Palácio	PMN		512	0,07%
+260º	Jorge Couto	PL		507	0,06%
+261º	Daniel Weibel	NOVO		507	0,06%
+262º	Jorginho Original	PMB		507	0,06%
+263º	Alex Morreba	PSD		497	0,06%
+264º	Cecel Vasconcelos	PODE		492	0,06%
+265º	Bruno da Saúde	PSOL		490	0,06%
+266º	Jeferson da Educação	MDB		488	0,06%
+267º	Carlos Augusto da Cidade	DEM		487	0,06%
+268º	Dr Jorge Lucena	REPUBLICANOS		487	0,06%
+269º	Delegada Iza	CIDADANIA		487	0,06%
+270º	Gilson Araujo	AVANTE		484	0,06%
+271º	Pc Allevato	PT		484	0,06%
+272º	Kaká Vem Aí	PTB		483	0,06%
+273º	André Santana Petinha	PTC		483	0,06%
+274º	Dr Jonathan Peçanha	MDB		482	0,06%
+275º	Joao Valois	PTB		478	0,06%
+276º	Lincoln Lyra	PATRIOTA		476	0,06%
+277º	Jorginho da Habitação	AVANTE		474	0,06%
+278º	Luis China	PMN		474	0,06%
+279º	Treinador Moisés Nascimento	PMN		473	0,06%
+280º	Max Muller	PATRIOTA		462	0,06%
+281º	Xisto Mattos	PSDB		461	0,06%
+282º	Alan Machado	PODE		461	0,06%
+283º	Marco Aurelio Paes	REPUBLICANOS		460	0,06%
+284º	Denis Moura	SOLIDARIEDADE		459	0,06%
+285º	Professor Robson Luis	PMB		450	0,06%
+286º	Jorge Barata	PSB		447	0,06%
+287º	Marquinho Turiaçu	MDB		447	0,06%
+288º	Marco Robocop	PTB		445	0,06%
+289º	Felipe Fontenelle	PRTB		444	0,06%
+290º	Alcimar Batista	PC DO B		441	0,06%
+291º	Eliane Jordão Mae da Manu	REPUBLICANOS		440	0,06%
+292º	Professor Edson Paiva	PC DO B		440	0,06%
+293º	Dr. Danilo Perpétuo	PATRIOTA		437	0,06%
+294º	Arthurzinho	PMN		435	0,06%
+295º	Diego Muguet	PSD		433	0,06%
+296º	Luisinho Amigo de Todos	PTB		431	0,06%
+297º	Candida	SOLIDARIEDADE		430	0,06%
+298º	Eco Araujo	REPUBLICANOS		429	0,05%
+299º	Rafael Floriano	PC DO B		429	0,05%
+300º	Inspetora Tatiana Mendes	REPUBLICANOS		427	0,05%
+301º	Vlad do Foto	PTB		427	0,05%
+302º	Leda Alves	NOVO		425	0,05%
+303º	Vander Carioca	PATRIOTA		425	0,05%
+304º	Suboficial Bonifácio	REPUBLICANOS		423	0,05%
+305º	Sérgio Ricardo Verde Potiguara	PSOL		422	0,05%
+306º	Wawa Simpático	DEM		421	0,05%
+307º	Chininha	PSL		416	0,05%
+308º	Gabrielle Burcci	MDB		414	0,05%
+309º	Ricardo Coelho	NOVO		403	0,05%
+310º	André Machado	PSD		403	0,05%
+311º	Tião Godinho	PTC		402	0,05%
+312º	Marquinhos da Reciclagem	MDB	INAPTO	401	0,05%
+313º	Dr Sergio Teixeira	NOVO		399	0,05%
+314º	Walcyr	PSC		398	0,05%
+315º	Silvinho da Razao	CIDADANIA		398	0,05%
+316º	Manassés	REPUBLICANOS		397	0,05%
+317º	Fernando Tavares	REPUBLICANOS		396	0,05%
+318º	Gisele Dias	PP		394	0,05%
+319º	Luciana Picorelli	PATRIOTA		394	0,05%
+320º	Jairo da Saúde	PC DO B		392	0,05%
+321º	Ricardo Laurentino	PRTB		392	0,05%
+322º	Gilson Barbosa	MDB		391	0,05%
+323º	Marcos Nobre	DC	INAPTO	391	0,05%
+324º	Motta	AVANTE		389	0,05%
+325º	Tunico de Souza	PATRIOTA		389	0,05%
+326º	Dr.paulo Carvalho	PROS		389	0,05%
+327º	Dedé Santos	PTC		388	0,05%
+328º	Charles Albert	PSD		387	0,05%
+329º	Edevaldo Oliveira	PSC		386	0,05%
+330º	Felipe Fontes	NOVO		384	0,05%
+331º	Pedro Rafael	PSD		384	0,05%
+332º	André Lima	PATRIOTA		383	0,05%
+333º	Julio Sorriso	PRTB		381	0,05%
+334º	Biscaia	PSB		379	0,05%
+335º	Andre Bombeiro	SOLIDARIEDADE		378	0,05%
+336º	Sargento Accioli	PSL		375	0,05%
+337º	Pinheiro	PP		373	0,05%
+338º	Sergio Byluca	PTB		370	0,05%
+339º	Ana da Ramiro	PROS		370	0,05%
+340º	Carlos Vicente Amigo da Gente	PMN	INAPTO	368	0,05%
+341º	Oliveira Robin Hood	SOLIDARIEDADE		366	0,05%
+342º	Rommel Cardozo	REPUBLICANOS		365	0,05%
+343º	Andre Silva	SOLIDARIEDADE		362	0,05%
+344º	João Pedro Rocha	PSB		361	0,05%
+345º	Seu Valdemar	DEM		360	0,05%
+346º	Fernando Silva	PTB		360	0,05%
+347º	Carlos Janan	SOLIDARIEDADE		358	0,05%
+348º	Alexandre Familia	PSL		357	0,05%
+349º	Professor Guto	PSD		356	0,05%
+350º	Dr Jorge Silva	PMN		355	0,05%
+351º	Rubinho	DEM		355	0,05%
+352º	Inspetor Joel Machado	REPUBLICANOS		354	0,05%
+353º	Anderson Graniço	AVANTE		353	0,05%
+354º	Marcio do Gas	PROS		353	0,05%
+355º	Tia Pretinha	DEM		348	0,04%
+356º	Anderson Duarte	PTB		347	0,04%
+357º	William Correia	SOLIDARIEDADE		345	0,04%
+358º	Anderson Bourner	REPUBLICANOS		344	0,04%
+359º	Junior Augusto	PODE		343	0,04%
+360º	Major Enoque Rafael	REPUBLICANOS		342	0,04%
+361º	Rogerinho Xavier	CIDADANIA		340	0,04%
+362º	Miriam Lopes	PSB		338	0,04%
+363º	Marcelo Xingu	PMN		338	0,04%
+364º	Toninho Albuquerque	PDT		336	0,04%
+365º	Geraldo Nogueira	PTC		336	0,04%
+366º	Lil	PTB		336	0,04%
+367º	Max	PSC		336	0,04%
+368º	Pastor Daniel Martins	PATRIOTA		332	0,04%
+369º	Vanessa Viana	PSL		332	0,04%
+370º	Dudu	PRTB		331	0,04%
+371º	Alexandre Lucio	PROS		328	0,04%
+372º	Bruno Nascimento	PRTB		328	0,04%
+373º	Daniel Carvalho Deco	PTC		325	0,04%
+374º	Mirian Pitta	NOVO		321	0,04%
+375º	Marco Pereira	REDE		321	0,04%
+376º	Victor Tricolor	DC		319	0,04%
+377º	De Loys	CIDADANIA		319	0,04%
+378º	Vigilante Jorge Rosa	PL		318	0,04%
+379º	Enfermeira Janaina	PRTB		318	0,04%
+380º	William da Rocinha	PP		317	0,04%
+381º	Prof. Helton Moreira	PSB		314	0,04%
+382º	Inez Belarmino	REPUBLICANOS		313	0,04%
+383º	Wladimir Neves	PSDB		310	0,04%
+384º	Robson de Carvalho	DEM		308	0,04%
+385º	Claudia Jordao	SOLIDARIEDADE		307	0,04%
+386º	Leandro Farias	PDT		305	0,04%
+387º	Mesac Bombeiro	PL		304	0,04%
+388º	Pastor Douglas Xavier	PP		302	0,04%
+389º	Sandro Capadócia	PSC		302	0,04%
+390º	Roberto Pomba	PROS		302	0,04%
+391º	Professor Diogo de Andrade	PT		302	0,04%
+392º	Marcelo Garrido	REPUBLICANOS		299	0,04%
+393º	Adelson Guedes	REPUBLICANOS		296	0,04%
+394º	Prof. Valdemir Miranda	PATRIOTA		296	0,04%
+395º	Marcão Borges	PATRIOTA		295	0,04%
+396º	Felizardo	PROS		293	0,04%
+397º	Fabiano Aragão	AVANTE		293	0,04%
+398º	Dulce Bressane	NOVO		291	0,04%
+399º	Erica Madrinha	SOLIDARIEDADE		290	0,04%
+400º	Fernando Mendonca	PDT		289	0,04%
+401º	Edmílson Barão	PTC		288	0,04%
+402º	Priscila Nocetti	PP		288	0,04%
+403º	Michel Uchiha	PSB		287	0,04%
+404º	Claudio Aranha	PDT		285	0,04%
+405º	Georgete Rocha	PSC		284	0,04%
+406º	Luciana Tamburini	PSL		284	0,04%
+407º	Rodolfo Rocha	PROS		283	0,04%
+408º	Marcio Ribeiro Reis	PDT		282	0,04%
+409º	Jp Farelli	PT		282	0,04%
+410º	Gefinho Raiz	PTC		281	0,04%
+411º	Professor Stepher	PDT		281	0,04%
+412º	Léo Dantas	PMB		280	0,04%
+413º	João Xavier	PC DO B		278	0,04%
+414º	Ívano Rodrigues	NOVO		275	0,04%
+415º	Silvinho do Peixe	PTC		274	0,04%
+416º	Marcos Aroeiras	PMN		271	0,03%
+417º	Silvio Nunes de Medeiros	REPUBLICANOS		270	0,03%
+418º	Gm Rodrigo Figueiredo	PDT		270	0,03%
+419º	Felipe Zanini	DEM		269	0,03%
+420º	Liliam Sáh	PTB		268	0,03%
+421º	Leandro Arruda	PRTB		266	0,03%
+422º	Nathália do Divercidade	PT		266	0,03%
+423º	Cabeça	PL		261	0,03%
+424º	Regis	PSC		261	0,03%
+425º	Bob Rum	AVANTE		260	0,03%
+426º	Dedé do Gás	PATRIOTA		259	0,03%
+427º	Kawan Lopes	PSOL		259	0,03%
+428º	Nilcemar	PL		257	0,03%
+429º	Enfermeira Aline Cruz	DC		257	0,03%
+430º	Professor Riva	PMB		257	0,03%
+431º	Andre Zanella	CIDADANIA		257	0,03%
+432º	Jeanne Souza Lima	PSOL		256	0,03%
+433º	Danilo Firmino	PSB		256	0,03%
+434º	Tereza Arapium	PSOL		254	0,03%
+435º	Adilson Siris	AVANTE		254	0,03%
+436º	Luiz Carlos Delega	REDE		254	0,03%
+437º	Matheus D Ouro	PTB		254	0,03%
+438º	João Rocha	REPUBLICANOS		254	0,03%
+439º	Paula do Vólei	PSD		254	0,03%
+440º	Haroldo Fonseca	PMN		253	0,03%
+441º	Andre Fernandes	PTB		253	0,03%
+442º	Fábio Teixeira	MDB		253	0,03%
+443º	Hamilton Vasconcellos	PP		252	0,03%
+444º	Cantora Beatriz	SOLIDARIEDADE		252	0,03%
+445º	Elis	PMN		252	0,03%
+446º	Subnoel	PRTB		252	0,03%
+447º	Artur do Cemap	PROS		251	0,03%
+448º	Izabel Cristina de Oliveira	PSDB	INAPTO	251	0,03%
+449º	Professor Carlos Alexandre	NOVO		251	0,03%
+450º	Rodrigo Riviere	NOVO		251	0,03%
+451º	Fernando Ben	PTB		250	0,03%
+452º	Fabio Mamedio	REDE		247	0,03%
+453º	Carlos Pérreto	PTC	INAPTO	246	0,03%
+454º	Dra Dominique	NOVO		246	0,03%
+455º	Dr Henrique Ivantes	PSL		245	0,03%
+456º	Sergio Ricardo Béria	AVANTE		245	0,03%
+457º	Coronel Jorge Mattos	SOLIDARIEDADE		245	0,03%
+458º	Ramon Molina	PTC		245	0,03%
+459º	Comandante Montenegro	PODE		245	0,03%
+460º	Elaine Ferreira	REDE		244	0,03%
+461º	Pedrão do Cosme E Damião	PSD		243	0,03%
+462º	Jorge Biza&apos;s	DEM		243	0,03%
+463º	Oséias Santos	PTC		242	0,03%
+464º	Marc	CIDADANIA		240	0,03%
+465º	Dra Sandra Neves	NOVO		239	0,03%
+466º	Denise Rivera	MDB		239	0,03%
+467º	Noemi Rocha	DEM		239	0,03%
+468º	Simone Pereira Mulherguerreira	REDE		238	0,03%
+469º	Roque Z	PATRIOTA		237	0,03%
+470º	André Acioli	PTB		237	0,03%
+471º	Edimilson Napoleão	PMN		237	0,03%
+472º	João Alberto	PATRIOTA		236	0,03%
+473º	Carlinhos Pro Menor	PSL		233	0,03%
+474º	Marrom	CIDADANIA		233	0,03%
+475º	Wiliam Sobrinho	PSD		233	0,03%
+476º	Leandro Souza	PTC		232	0,03%
+477º	Romildo Juca	PL		231	0,03%
+478º	Rodrigo Mendonça	PT		231	0,03%
+479º	Vanessa Santos Enfermeira	REDE		231	0,03%
+480º	Jorge Merlim	PATRIOTA		230	0,03%
+481º	Tchetchelos	CIDADANIA		228	0,03%
+482º	Wagner Franco	REPUBLICANOS		228	0,03%
+483º	Dione Santos	PATRIOTA		228	0,03%
+484º	St Flavio Logan	PSL		228	0,03%
+485º	Elaine Fernandes	PTB		226	0,03%
+486º	Marquinho Bombeiro	DC		225	0,03%
+487º	Doutora Angela Tenorio	PTB		224	0,03%
+488º	Marcelo Jacinto	PMN		224	0,03%
+489º	Thelma Rocha	PMN		224	0,03%
+490º	Marcelo Ramos	PMB		223	0,03%
+491º	Ten Wolney de Paula	PRTB		222	0,03%
+492º	Fabinho Manaus	DC		222	0,03%
+493º	Leandro Coruja	PATRIOTA		222	0,03%
+494º	Dr. Milton	PATRIOTA		221	0,03%
+495º	Mychelle Mesquita	AVANTE		221	0,03%
+496º	Fabinho da Feira	AVANTE		219	0,03%
+497º	Taisi Miranda	PMN		219	0,03%
+498º	João Bororó Estivador	PMN		218	0,03%
+499º	Gilmar	PODE		218	0,03%
+500º	Emanoel Rangel	DEM		217	0,03%
+501º	Leandro Assumpção	PTB		217	0,03%
+502º	Tia Jo do Povo	PSC		217	0,03%
+503º	Benevides Camelô	UP		216	0,03%
+504º	Edivaldo Baixinho	PTC		215	0,03%
+505º	Julio Carreiro	PRTB		215	0,03%
+506º	Sandra Mara dos Bichinhos	REPUBLICANOS		214	0,03%
+507º	Leandro Mello	PSC		212	0,03%
+508º	Nelsinho Gari	DC		212	0,03%
+509º	Karoline Miranda	PT		212	0,03%
+510º	Elza Serra	PC DO B		211	0,03%
+511º	Ciminelli Com C	NOVO		211	0,03%
+512º	Gilmara Costa	PSB		211	0,03%
+513º	Dr. Jsantana	PSL		210	0,03%
+514º	Leozinho	DEM		210	0,03%
+515º	Michele Joia	PTC		210	0,03%
+516º	Fernanda Cubiaco	DEM		207	0,03%
+517º	Alexandre Naval	AVANTE		207	0,03%
+518º	Kiko	CIDADANIA		206	0,03%
+519º	Jorge Freire	CIDADANIA		206	0,03%
+520º	Tarcisio Teixeira	MDB		206	0,03%
+521º	Melk Ribeiro	DC		206	0,03%
+522º	Comandante Sérgio	PSL		205	0,03%
+523º	Sérgio Nota 10	PATRIOTA		205	0,03%
+524º	Pastor Alexandre Nascimento	PSC		203	0,03%
+525º	Valdecir Baiense	AVANTE		202	0,03%
+526º	Pr. Geovane	PATRIOTA		201	0,03%
+527º	Marcio Pequeno	PODE		199	0,03%
+528º	Prof Sandro	PL		199	0,03%
+529º	João Raphael Ramos	PT		199	0,03%
+530º	Luiz Gonzaga	PL		198	0,03%
+531º	Gilson Feijão	PP		197	0,03%
+532º	Ostinho Cabelereiro	AVANTE		196	0,03%
+533º	Professor da Praça	PSC		196	0,03%
+534º	Victor Tiziano	PSDB		196	0,03%
+535º	Francisco Trindade	PATRIOTA		195	0,02%
+536º	Pastor Othoniel Marins	DC		195	0,02%
+537º	Fabio Guimarães	REDE		195	0,02%
+538º	Dra Tania Faial	PL		195	0,02%
+539º	Rodolfo Barros	DC		194	0,02%
+540º	Cristiane Huback	PODE		194	0,02%
+541º	Edna Gomes	CIDADANIA		194	0,02%
+542º	Paulo Cerri	CIDADANIA		193	0,02%
+543º	Rosi Cordeiro	PDT		192	0,02%
+544º	Dudu Zona Oeste	PATRIOTA		192	0,02%
+545º	Nielsen Zin	SOLIDARIEDADE		191	0,02%
+546º	Gilson Flores	PSD		190	0,02%
+547º	Alan M.rodrigues	SOLIDARIEDADE		189	0,02%
+548º	Paulo Cintura	REPUBLICANOS		188	0,02%
+549º	Marcelo de Queiroz	PSB		187	0,02%
+550º	Ricardo Chapolim	PT		187	0,02%
+551º	Dra Mariléa Ormond	AVANTE		186	0,02%
+552º	Jana Escafura Montalvão	PV		186	0,02%
+553º	Marcos Natalino	PROS		186	0,02%
+554º	Platinir Camilo	PL		186	0,02%
+555º	Prof Ricardo Maluf	PTB		185	0,02%
+556º	Patricia Tolmasquim	CIDADANIA		184	0,02%
+557º	Soninha de Quintino	DEM		184	0,02%
+558º	Daniele Lamenha	PSD		184	0,02%
+559º	Miranda	PMN		183	0,02%
+560º	Sergio Poder	PODE		182	0,02%
+561º	Professor Ney Sérgio	PC DO B		182	0,02%
+562º	Silvino Pessanha Jr	PSC		181	0,02%
+563º	Leandro Gari	PTB		181	0,02%
+564º	Nea Mariozz	PP		180	0,02%
+565º	Gottsha	CIDADANIA		180	0,02%
+566º	Alan Silva do Complexo	PL		180	0,02%
+567º	Wanderley de Paula	PRTB		179	0,02%
+568º	Fabio da Paz	PRTB		179	0,02%
+569º	Waldir Luíz Ferraz	REPUBLICANOS		177	0,02%
+570º	Rodrigo Salvador	PSC		177	0,02%
+571º	Renato Guia	CIDADANIA		177	0,02%
+572º	Ururahy	PSDB		176	0,02%
+573º	Mauro Dias	MDB		176	0,02%
+574º	Veronica Oliveira	PTB		176	0,02%
+575º	Miguel Pqd	SOLIDARIEDADE		176	0,02%
+576º	Vãnia Dutra	PSB		176	0,02%
+577º	Teré	PTB		176	0,02%
+578º	Adalberto Santos	NOVO		175	0,02%
+579º	Waguinho de Urucânia	PMB		175	0,02%
+580º	Professor Israël	PTC		174	0,02%
+581º	Juarez Ribeiro	PDT		174	0,02%
+582º	Jeronimo Teles	DC		174	0,02%
+583º	Enfermeira Nice Carvalho	PSC		173	0,02%
+584º	Adriana Anjos de Realengo	CIDADANIA		173	0,02%
+585º	Dj Washington	PODE		172	0,02%
+586º	Nobre	PL		172	0,02%
+587º	Comandante Sergio Weydt	PSD		171	0,02%
+588º	Zé do Rio	PSB		171	0,02%
+589º	Célio Gonzaga	DEM		171	0,02%
+590º	Dr Moreira	PSD		171	0,02%
+591º	Pedro Lima	CIDADANIA		171	0,02%
+592º	Wilson Amaral	AVANTE		170	0,02%
+593º	Coronel Marcio Rocha	PDT		169	0,02%
+594º	Jhu Venancio	PTB		169	0,02%
+595º	Francis Chocollat	DEM		169	0,02%
+596º	Diene da Silva	PT		169	0,02%
+597º	Rafael Paz	SOLIDARIEDADE		169	0,02%
+598º	Bidarra, Político Natural	PROS		168	0,02%
+599º	Fernando Lyra	PDT		168	0,02%
+600º	Dra. Alessandra Santos	MDB		167	0,02%
+601º	Prof Thiago Arruda	NOVO		167	0,02%
+602º	Monica Fraga	PSL		166	0,02%
+603º	Denis de Souza	PODE		166	0,02%
+604º	Valquiria Eletricista	PROS		166	0,02%
+605º	Pipa Vieira	PC DO B		166	0,02%
+606º	Artur Saião	AVANTE		165	0,02%
+607º	Gustavo Cretton	CIDADANIA		165	0,02%
+608º	Cavalieri Guerreiro do Rio	DC		165	0,02%
+609º	Mirunga	PROS		164	0,02%
+610º	Quirino	PSDB		164	0,02%
+611º	Santos Camelo	SOLIDARIEDADE		164	0,02%
+612º	Alemão	PMN		163	0,02%
+613º	Marcio Flavio	AVANTE		163	0,02%
+614º	Taygoara Cotta	PSOL		163	0,02%
+615º	João Sacolé 100%	PSC		162	0,02%
+616º	Malês Levante Negro	PC DO B		162	0,02%
+617º	Victor Santos	DEM		161	0,02%
+618º	Carlos Sobral Pinto	PSDB		160	0,02%
+619º	Ronaldinho da Van	PP		160	0,02%
+620º	Buruca	PC DO B		160	0,02%
+621º	Sandra Rabello	PT		159	0,02%
+622º	Andre Brasil	REPUBLICANOS		159	0,02%
+623º	Danilo Alves	PSDB		159	0,02%
+624º	Guilherme Andrade	DEM		158	0,02%
+625º	Léo Brasil	PMN		158	0,02%
+626º	Serginho da Salina Tmj	PMB		157	0,02%
+627º	Fátima Xavier	AVANTE		157	0,02%
+628º	Luzia dos Especiais	PL		157	0,02%
+629º	Gustavo Pessino	PDT		156	0,02%
+630º	Rogerio Antero	PSB		156	0,02%
+631º	Alex Macedo	SOLIDARIEDADE		156	0,02%
+632º	Carlos de Souza	PL		156	0,02%
+633º	Wellington Cajueiro	PRTB		156	0,02%
+634º	Luiz Labre	PSL		155	0,02%
+635º	Patricia Cardoso	PRTB		155	0,02%
+636º	Frango Bombeiro	PL		155	0,02%
+637º	Fillip Uliano	PROS		155	0,02%
+638º	Saverio	PSB		153	0,02%
+639º	Enfermeira Jussara Pinho	REPUBLICANOS		153	0,02%
+640º	Professor Mauricio Accioli	PRTB		153	0,02%
+641º	Dra Sarita Paiva	PSL		153	0,02%
+642º	Wanderley Rebello	PSB		152	0,02%
+643º	Elias Rolo Compressor	REDE		152	0,02%
+644º	Claudia Lima	PDT		152	0,02%
+645º	Roberto Dias	PV		151	0,02%
+646º	Andréa Roseno	NOVO		151	0,02%
+647º	Raquel Lima	PTC		151	0,02%
+648º	Gilmara Cunha	PT		151	0,02%
+649º	Pelé Barbeiro	PSL		150	0,02%
+650º	Prof. Paulo Alonso	REPUBLICANOS		150	0,02%
+651º	Shirley Bill	PMN		150	0,02%
+652º	Dodi Terra	REDE		150	0,02%
+653º	Nicolle Calheiros	DEM		150	0,02%
+654º	Vitor Rezende	NOVO		150	0,02%
+655º	Quinho do Salgueiro	AVANTE		149	0,02%
+656º	Sandra Vieira	PROS		149	0,02%
+657º	Diretor Léo	PTC		149	0,02%
+658º	Sandra Brasil	SOLIDARIEDADE		148	0,02%
+659º	Kleber Junior	PRTB		148	0,02%
+660º	Jomara Knoff	DEM		147	0,02%
+661º	Gregorio da Casa de Jorge	SOLIDARIEDADE	INAPTO	147	0,02%
+662º	André Quizomba	PSB		146	0,02%
+663º	Milton Bahia	PODE		146	0,02%
+664º	Gustavo Treistman	PSTU		146	0,02%
+665º	Neimar Valladares	MDB		145	0,02%
+666º	Marcelo Rondon	REPUBLICANOS		144	0,02%
+667º	Sandra Santos	PMN		144	0,02%
+668º	Glauco André	PSD		144	0,02%
+669º	Dona Raimunda	DEM		143	0,02%
+670º	Tarzan	DC		143	0,02%
+671º	Edson da Maré	PMB		143	0,02%
+672º	Professora Sandra de Sá	REPUBLICANOS		143	0,02%
+673º	Ana Paula Vianna	CIDADANIA		143	0,02%
+674º	Jaqueline Leocadio	DC		143	0,02%
+675º	Evandro Santa Cruz	DEM		143	0,02%
+676º	Daril Nogueira	PATRIOTA		142	0,02%
+677º	Dr. Mauricio Price	PSL		142	0,02%
+678º	David Muniz	DEM		142	0,02%
+679º	Mariana Basilio	PDT		142	0,02%
+680º	Júlio Barretto	REPUBLICANOS		142	0,02%
+681º	Caio Mello	NOVO		142	0,02%
+682º	Paulinho Parimá	DEM		141	0,02%
+683º	Val Vieira	PMB		141	0,02%
+684º	Regis Filho	AVANTE		141	0,02%
+685º	Geni Genial	DEM		140	0,02%
+686º	Marcelo Piuí	PODE		140	0,02%
+687º	Leandro da Farmácia	PRTB		140	0,02%
+688º	Liomar de Oliveira	REPUBLICANOS		139	0,02%
+689º	Pedro Alaim	PTB		138	0,02%
+690º	Pedro Carmona	PATRIOTA		137	0,02%
+691º	Lourdes Lisboa	AVANTE		136	0,02%
+692º	Dilmeire Alves	PSDB		136	0,02%
+693º	Ivania Ferreira	REDE		136	0,02%
+694º	Antonio Carlos	PTB	INAPTO	136	0,02%
+695º	Duda Zagari	PSDB		136	0,02%
+696º	Marcia Cardoso	SOLIDARIEDADE		136	0,02%
+697º	Guara Baptista O Gente Boa	PTC		135	0,02%
+698º	Prof Fernando Rocha	PL		135	0,02%
+699º	Enfermeiro Marcelo Santos	PC DO B	INAPTO	135	0,02%
+700º	Airton Fernandes	PATRIOTA		135	0,02%
+701º	Prof Marcia Moraes	PRTB		134	0,02%
+702º	Pedro Américo	PC DO B		134	0,02%
+703º	Carla Mele	PATRIOTA		134	0,02%
+704º	Welington Bomba	PATRIOTA		133	0,02%
+705º	Sergio Pessoa	DC		133	0,02%
+706º	Pastora Michelle Francis	MDB		133	0,02%
+707º	Spiff	PSL		133	0,02%
+708º	Mariana Boynard	PSL		133	0,02%
+709º	Baixinho de Santa Cruz	DC		132	0,02%
+710º	Marquinho da Granito	REDE		132	0,02%
+711º	Leandro Vargas	PSDB		132	0,02%
+712º	Tião Amorim	AVANTE		131	0,02%
+713º	Marilene Sant`anna	PMB		131	0,02%
+714º	André Santa Cruz	PT		131	0,02%
+715º	Bruno Carlos	NOVO		131	0,02%
+716º	José Everaldo	PMN		130	0,02%
+717º	Chiquinho da Ilha	PV		130	0,02%
+718º	Dr Magnelson	PSL		130	0,02%
+719º	Helton Lopes	PL		130	0,02%
+720º	Alberto Buscapé	PT		130	0,02%
+721º	Ivonete Erruas	DC		130	0,02%
+722º	Ricardinho Gratidão	AVANTE		130	0,02%
+723º	Kadu Ferraz	PSDB		130	0,02%
+724º	Jonas Ferreira	PODE		129	0,02%
+725º	Kiko da Suêd	PMB		129	0,02%
+726º	Jorge Santos	PRTB		128	0,02%
+727º	Hilton Ferreira	DC		128	0,02%
+728º	Léo Seabra	PSL		128	0,02%
+729º	Victor Grisard	PDT		128	0,02%
+730º	Sergio Amorim	PSOL		127	0,02%
+731º	Maristela de Paula	PMN		127	0,02%
+732º	Fladimar Melo	PMN		127	0,02%
+733º	Esmeralda Furtado	PDT		127	0,02%
+734º	Melissa Sá	PP		127	0,02%
+735º	Fernando Ney	SOLIDARIEDADE	INAPTO	126	0,02%
+736º	Cleiton Deu Certo	SOLIDARIEDADE		126	0,02%
+737º	Tia Célia	PSC		125	0,02%
+738º	Glauco Vital	PDT		124	0,02%
+739º	Bruno Leão	PSL		124	0,02%
+740º	Norinho	DEM		123	0,02%
+741º	Ten Elias	PSL		123	0,02%
+742º	Bira Moreira	PTC		123	0,02%
+743º	Jackeline Nascimento	CIDADANIA		123	0,02%
+744º	Anderson Monteiro	PATRIOTA		123	0,02%
+745º	Felippe Chaves	PSC		123	0,02%
+746º	Verônica Souza	PSDB		122	0,02%
+747º	Sólon Rubem	PT		121	0,02%
+748º	Ricardo Kafa	PSL		120	0,02%
+749º	Janaina Dahoui	PDT		120	0,02%
+750º	Prof Sonia Bauer	PTC		119	0,02%
+751º	So Mb Jorge Page	PODE		119	0,02%
+752º	Arlindo Pereira	PSOL		119	0,02%
+753º	Djalma Santos	PL		119	0,02%
+754º	Juciane Gomes	DC	INAPTO	119	0,02%
+755º	Beto Vieira	PTB	INAPTO	118	0,02%
+756º	Professora Luciana	MDB		118	0,02%
+757º	Renan Correa	PSD		118	0,02%
+758º	Professora Cristina Costa	PT		117	0,01%
+759º	Professora Margo Carvalho	PDT		117	0,01%
+760º	Sgt Etienne	PROS		117	0,01%
+761º	Soca	SOLIDARIEDADE		116	0,01%
+762º	Pai Josimar de Oxossi	PL		116	0,01%
+763º	Fernanda Lira	PATRIOTA		116	0,01%
+764º	Manu Netto	PMB		116	0,01%
+765º	Priscila Amaral	PSL		116	0,01%
+766º	Augusto do Laboratorio	PMB		115	0,01%
+767º	Luiz Carlos Pixote	PTB		115	0,01%
+768º	Carlos Dantas O Leão do Rj	PTB		115	0,01%
+769º	Paulinho Sacramento	PT		115	0,01%
+770º	Prof Fabiano	PL		115	0,01%
+771º	Deise Menezes	DEM		114	0,01%
+772º	Ronaldo Gotlib	PV		114	0,01%
+773º	Maestro das Ruas	PSDB		114	0,01%
+774º	Luciana Lins	PSL		114	0,01%
+775º	Nonato Trinta	CIDADANIA		112	0,01%
+776º	Uiara	PSB		112	0,01%
+777º	Cipriano Augusto	PSD	INAPTO	112	0,01%
+778º	Paulo Cabelo	PSDB		112	0,01%
+779º	Pádua Cantor	PMN		111	0,01%
+780º	Júlio César da Costa	REDE		111	0,01%
+781º	Alan Rodrigues	PSOL		111	0,01%
+782º	Doguinho Zona Oeste	PTC		111	0,01%
+783º	Veronica Moraes	PDT		111	0,01%
+784º	Luan Lennon	PSL		111	0,01%
+785º	Jussara Maia	PL		110	0,01%
+786º	Oscar Fernandes	PSD		110	0,01%
+787º	Arlete Ludovice dos Santos	PL		110	0,01%
+788º	Alcimar de Acari	PODE		110	0,01%
+789º	Jimmy Molejo	SOLIDARIEDADE		110	0,01%
+790º	Robertão Machado	CIDADANIA		109	0,01%
+791º	Carlinhos Gigante	DEM		109	0,01%
+792º	Lívia Nazaré	PSC		109	0,01%
+793º	André Tenório	PSB		109	0,01%
+794º	Raul Bittencourt	UP		109	0,01%
+795º	Renatinho Rosa	PC DO B		109	0,01%
+796º	Dr Thiago Smith	PL		109	0,01%
+797º	Sérgio André	PTC		108	0,01%
+798º	Serpa	DC		108	0,01%
+799º	Professor Marcus Menezes	PSOL		108	0,01%
+800º	Marcia Ferreira	SOLIDARIEDADE		107	0,01%
+801º	Luiza de Marilac	PATRIOTA		107	0,01%
+802º	Tostão	PSD		107	0,01%
+803º	Denilson Bandeirinha	PMB		107	0,01%
+804º	Professor Antônio Cláudio	PC DO B		107	0,01%
+805º	Marcos Força Brasil	PTC		107	0,01%
+806º	Osvaldina da Telerj	PSD		106	0,01%
+807º	Mauro Monteiro	PL		106	0,01%
+808º	Heitor Ney	PSOL		106	0,01%
+809º	Stella Gaio	PL		106	0,01%
+810º	Evancler dos Santos	PROS		106	0,01%
+811º	Tia Lucia Perdigao	PDT		105	0,01%
+812º	Fábio Costa	PSD		105	0,01%
+813º	Ph Gm	CIDADANIA		105	0,01%
+814º	Carlos Negrito	PROS		105	0,01%
+815º	Presidente Tê	PMN		104	0,01%
+816º	Capitão Léo	PROS		104	0,01%
+817º	Tio Tuninho	PTB		104	0,01%
+818º	Haroldo Paixão	PATRIOTA		104	0,01%
+819º	Miltinho Pipoqueiro	PROS		104	0,01%
+820º	Glauber Rocha	DC		104	0,01%
+821º	Gabriel Oliveira	PT		104	0,01%
+822º	Pastor Adilson É O Tio	PMB		103	0,01%
+823º	Jose Cardoso	PL		103	0,01%
+824º	Gerson Barbosa	MDB		102	0,01%
+825º	Nat Pelos Animais	PDT		102	0,01%
+826º	Ciça do Acarajé	PSDB		101	0,01%
+827º	Celso Brazão	PRTB	INAPTO	101	0,01%
+828º	Edi Só Vitória	PSC		101	0,01%
+829º	Marcela Cigana	SOLIDARIEDADE		101	0,01%
+830º	Flávio Borges	PC DO B		100	0,01%
+831º	Equison Silva	PROS		99	0,01%
+832º	Zila Castro	DEM		99	0,01%
+833º	Nem Ferreira	PTB		99	0,01%
+834º	Carla Maria	PDT		99	0,01%
+835º	Deise Franklin	PSB		99	0,01%
+836º	Fabio Bastos	PSL		99	0,01%
+837º	Alexandre França	PATRIOTA		98	0,01%
+838º	Isaac Jr	PC DO B		98	0,01%
+839º	Enfermeira Luciene	PP		98	0,01%
+840º	Robinson Robinho	PROS		98	0,01%
+841º	Claudete Costa	PT		98	0,01%
+842º	Mariana do Irmão Fabrício	PSD		98	0,01%
+843º	Norma Lemos	SOLIDARIEDADE		97	0,01%
+844º	Vera Belizario	REPUBLICANOS		97	0,01%
+845º	Marcelo Romano	SOLIDARIEDADE		96	0,01%
+846º	Papão	PL		96	0,01%
+847º	Tia Rosi	PTB		96	0,01%
+848º	Claudio Freire	PATRIOTA		96	0,01%
+849º	Patricia Falcao	PATRIOTA		96	0,01%
+850º	Viviane Malheiros	PTB		96	0,01%
+851º	Leo Bezerra da Silva	MDB		96	0,01%
+852º	Luciane Santiago	PSL		96	0,01%
+853º	Lu Monteiro	PDT		96	0,01%
+854º	Roberto Louzada	PSL		95	0,01%
+855º	Enfermeira Cremilda	REDE		95	0,01%
+856º	Alvaro Tito	REDE	INAPTO	95	0,01%
+857º	Ana Paula	PMN		95	0,01%
+858º	Simone Clara	PMN		95	0,01%
+859º	Ronaldo Verdiano	PROS		94	0,01%
+860º	Moises Elkain	PSL		94	0,01%
+861º	Marcia Rossi	PC DO B		94	0,01%
+862º	Zeca	SOLIDARIEDADE		94	0,01%
+863º	Flávio Rocha	PSC		94	0,01%
+864º	Doutora Maria Amélia	PRTB		94	0,01%
+865º	Davi Bravo	NOVO		94	0,01%
+866º	Deise Costa	DC		94	0,01%
+867º	Lucimar da Silva	REDE		93	0,01%
+868º	Celso Oliveira	PSB		93	0,01%
+869º	Ricardinho Bombeiro	DC	INAPTO	93	0,01%
+870º	Alex Brizola	PSC		93	0,01%
+871º	Eloir Gomes	PSC		93	0,01%
+872º	Th O Povo Pelo Povo	PROS		93	0,01%
+873º	Vigilante Felipe	PDT		93	0,01%
+874º	Felipe Cadena	DEM		93	0,01%
+875º	Virginia Meirim	PSB		92	0,01%
+876º	Claudio Avelar	DEM		92	0,01%
+877º	Ronny Alencar	PP		92	0,01%
+878º	Denise Custódio	PRTB		92	0,01%
+879º	Elza Aguiar	DC		92	0,01%
+880º	Derivaldo Macedo	DEM		92	0,01%
+881º	Jana Cação	CIDADANIA		92	0,01%
+882º	Mana Pontes	PV		91	0,01%
+883º	Lucas Chagas	PL		91	0,01%
+884º	Aguinaldo Teixeira	PRTB		91	0,01%
+885º	Marquinho Didi	PTC		91	0,01%
+886º	Alexandre Pantaleão	PSOL		91	0,01%
+887º	Edson Leite	PODE		90	0,01%
+888º	Cimar Barbosa	PTB		90	0,01%
+889º	Jefferson Arouche	NOVO		90	0,01%
+890º	Professor Elias Latrel	PMN		90	0,01%
+891º	Marileide Faz	AVANTE		89	0,01%
+892º	Cadu da Enfermagem	PT		89	0,01%
+893º	Abramel	AVANTE		89	0,01%
+894º	Sabrina Martins	PSL		89	0,01%
+895º	Michel Carmona	PSL		89	0,01%
+896º	Karabbah	PSOL		89	0,01%
+897º	William Ferreira	PL		88	0,01%
+898º	Monica D Sá	PTB		88	0,01%
+899º	Lorrane	PT		88	0,01%
+900º	Lucimar Nascimento	PSDB		88	0,01%
+901º	Claudinha do São Fernando	DC		88	0,01%
+902º	Alexandre Perini	PATRIOTA		88	0,01%
+903º	Helio Monteiro	PDT		87	0,01%
+904º	Sandra Hernandes	PSL		87	0,01%
+905º	Helinho do Salgueiro	PC DO B		87	0,01%
+906º	Julio Aleixo	AVANTE		87	0,01%
+907º	Professor Daltro	PDT		87	0,01%
+908º	Rafael Simi	PSOL		87	0,01%
+909º	Luciano Pessanha	PROS		87	0,01%
+910º	Elaine Moura	DEM		86	0,01%
+911º	Comandante Ozuna	PODE		86	0,01%
+912º	Margareth Dallaruvera	PT		86	0,01%
+913º	Chiquinho da Cidade de Deus	PTC	INAPTO	86	0,01%
+914º	Professor Marcelo Viola	PT		86	0,01%
+915º	Arlindo Cardoso	PSL		86	0,01%
+916º	Luiz Madureira	PDT		85	0,01%
+917º	Ivan Oliveira	PDT		84	0,01%
+918º	Aluizio Pica Pau	CIDADANIA		84	0,01%
+919º	Lu Barbeiro	AVANTE		84	0,01%
+920º	Jorge Mendonça	PMB		83	0,01%
+921º	Douglas Abobrão	PT		83	0,01%
+922º	Andre Rozendo	PSL		83	0,01%
+923º	Lindinho	PSB		83	0,01%
+924º	Pedro Rocha	PATRIOTA		83	0,01%
+925º	Thiago Lacerda	PMB		83	0,01%
+926º	William Nascimento	PSL		83	0,01%
+927º	José Guilherme	PODE		83	0,01%
+928º	Pastora Norma Sueli	REPUBLICANOS		82	0,01%
+929º	Tia Leize	PODE		82	0,01%
+930º	Comandante Paulo Roberto	PSC		82	0,01%
+931º	Euclides Santos	PMB		82	0,01%
+932º	Anderson Vascurado	PSDB		82	0,01%
+933º	Simone Soares	PSDB		82	0,01%
+934º	Bruno do Ovo	PMB		82	0,01%
+935º	Sargento Oliveira	PSL		82	0,01%
+936º	Waltinho Saadi	PTC		81	0,01%
+937º	Edison Pedrosa	PROS	INAPTO	81	0,01%
+938º	Alexandre Pimentel	MDB		81	0,01%
+939º	Marcia Improta	REPUBLICANOS		81	0,01%
+940º	Dani Simas	PP		81	0,01%
+941º	Mazinho	PATRIOTA		81	0,01%
+942º	Marllus Henrique	NOVO		81	0,01%
+943º	J Kavallo	PMB		80	0,01%
+944º	Bianca Flegner	PSL		80	0,01%
+945º	Felipe Candido Pela Floresta	PSOL		80	0,01%
+946º	Neia Paciência	DC		79	0,01%
+947º	Francisco da Silva	PV		79	0,01%
+948º	Emir Novaes	PTB		79	0,01%
+949º	Carlinhos App	PSD		79	0,01%
+950º	Bruno Japonês	PSB		79	0,01%
+951º	Sandra Arueira	PC DO B		78	0,01%
+952º	Professor Areias	SOLIDARIEDADE		78	0,01%
+953º	Celio Andrade	PTB		78	0,01%
+954º	Ricardo Gustavo	PSB		78	0,01%
+955º	Amorim Andaraí Rj	PL		78	0,01%
+956º	Prf Bedin	PSL		78	0,01%
+957º	Micilda Machado	CIDADANIA		78	0,01%
+958º	Eduardo Coelho	PT		77	0,01%
+959º	Pastor Eduardo	PMB		77	0,01%
+960º	Washington Luiz	PP		77	0,01%
+961º	George Ramos	PMB		77	0,01%
+962º	Prof Miria Coutinho	PSOL		76	0,01%
+963º	João Eudes da Enfermagem	PSC		76	0,01%
+964º	Daniel Biond	SOLIDARIEDADE		76	0,01%
+965º	Marcia Guedes	PATRIOTA		76	0,01%
+966º	Ronaldo França	PROS		76	0,01%
+967º	Pedrinho do Mendanha	AVANTE		76	0,01%
+968º	Wanderli Santos	PRTB		76	0,01%
+969º	Pra Luciana da Jimei	PATRIOTA		76	0,01%
+970º	Cadu Ornelas	PSL		76	0,01%
+971º	Pedro Henrique	PROS		76	0,01%
+972º	Celso Telli	DEM		75	0,01%
+973º	Valdeci Martins	PSDB		75	0,01%
+974º	Tia Leda	PC DO B		75	0,01%
+975º	Ana Paula Goldbach	DEM		75	0,01%
+976º	Aelson Ferreira	PSC		75	0,01%
+977º	Jane do Ovo	PTC		75	0,01%
+978º	Monica Rabelo	PT		74	0,01%
+979º	Christovam Neto	PSDB		74	0,01%
+980º	Edio	PTC		74	0,01%
+981º	Solange Souza	PODE		74	0,01%
+982º	Carrulo Estivador	PSDB		74	0,01%
+983º	Prof André Cantuária	REDE	INAPTO	74	0,01%
+984º	Renato da Kombi	PMB		74	0,01%
+985º	Anderson Marrom	PP		74	0,01%
+986º	Flores	PSC		74	0,01%
+987º	Rômulo Affonso	PTB		74	0,01%
+988º	Felipe Cesar	REDE		74	0,01%
+989º	Seu Padilha	DEM		73	0,01%
+990º	Tomm do Povo	CIDADANIA		73	0,01%
+991º	Noel da Farmacia	SOLIDARIEDADE		73	0,01%
+992º	Debora Alves	PDT		73	0,01%
+993º	Alan Andrade	PTC		73	0,01%
+994º	Mere Fernandes	DC		73	0,01%
+995º	Alexandre Salgado	PTB		73	0,01%
+996º	Pb. Marcelo Souza	PROS		73	0,01%
+997º	Messias da Reabilitação	PRTB		73	0,01%
+998º	Jaqueline Mourão	DEM		73	0,01%
+999º	Missionaria Rosimeri	REPUBLICANOS		72	0,01%
+1000º	Gilberto Ferreira	PSB		72	0,01%
+1001º	Marcos Draco	PP		72	0,01%
+1002º	Ricardo Puruca	PODE		72	0,01%
+1003º	Priscila Uniao	SOLIDARIEDADE		72	0,01%
+1004º	Dr.washington Machado	PMB		71	0,01%
+1005º	Sandra Aleixo	PMB		71	0,01%
+1006º	Jô de Del Castilho K Entre Nos	CIDADANIA		71	0,01%
+1007º	Maradona	DC		71	0,01%
+1008º	Claudio Mexicano	PDT		71	0,01%
+1009º	Reginaldo Coelho	PMN		71	0,01%
+1010º	Samantha Guedes	PSTU	INAPTO	71	0,01%
+1011º	Ronaldo Martins	SOLIDARIEDADE		71	0,01%
+1012º	Alessandro Rabello	PC DO B		71	0,01%
+1013º	Amilton Barros	PSB		71	0,01%
+1014º	Ronaldo Caldeira	PDT		70	0,01%
+1015º	Erica Collares	PV		70	0,01%
+1016º	Capitão Paulo Chagas	PSC		70	0,01%
+1017º	Jorge Santana	PRTB		70	0,01%
+1018º	Joaquim Pinto	DC		69	0,01%
+1019º	Dinamar Cowello	PTC	INAPTO	69	0,01%
+1020º	Eduardo Silva Dudu do Frete	PTC	INAPTO	69	0,01%
+1021º	Ana Paula Andrade	PSL		69	0,01%
+1022º	Adriana Valente	PT		69	0,01%
+1023º	Christiane Domingas	PMB		69	0,01%
+1024º	Nany Gomes	PMB		69	0,01%
+1025º	Gilmar Henrique	PP		69	0,01%
+1026º	Anne Grace	PTB		68	0,01%
+1027º	Tadeu Ribeiro	PDT		68	0,01%
+1028º	Roberto Pereira	PTC		68	0,01%
+1029º	Naide Ribeiro	PSOL		68	0,01%
+1030º	Lenilton Silva	PMB		68	0,01%
+1031º	Renato da Matta	CIDADANIA		68	0,01%
+1032º	Bil Kele Bk	PMB		68	0,01%
+1033º	Cleiton Vieira	PMN		68	0,01%
+1034º	Bia Duque	PSL		68	0,01%
+1035º	Raimundo Porteiro	PC DO B		68	0,01%
+1036º	Marcio Santos	PT		68	0,01%
+1037º	Dra. Fabiana Silveira	PL		68	0,01%
+1038º	Josias Vital	PTC		67	0,01%
+1039º	Luiz Victório	PTC		67	0,01%
+1040º	Wellington Jorge	PATRIOTA		67	0,01%
+1041º	Cristina Principe	PSD		67	0,01%
+1042º	Edna Pires	PATRIOTA		67	0,01%
+1043º	Denise Cardoso	PODE		67	0,01%
+1044º	Dr Tião Pinheiro	PSC		67	0,01%
+1045º	Clarice Santos	PMN		67	0,01%
+1046º	Sidney Lima	SOLIDARIEDADE	INAPTO	67	0,01%
+1047º	Chaves	MDB		67	0,01%
+1048º	Ana Manço	PTB		66	0,01%
+1049º	Paulo da Vila Maria	PC DO B		66	0,01%
+1050º	Naldo	PTC		66	0,01%
+1051º	Irmão Paulo	AVANTE		66	0,01%
+1052º	Cris Praia	PMB		66	0,01%
+1053º	Alexandra Nery	REPUBLICANOS		66	0,01%
+1054º	Feliciano	PL		65	0,01%
+1055º	Cleber Vidal	DC		65	0,01%
+1056º	Luiz Rabello do Oratório	PSL		65	0,01%
+1057º	Luis Kcal	PSB		65	0,01%
+1058º	Roberto Lima	AVANTE		65	0,01%
+1059º	Fre Pelo Rio	PSL		65	0,01%
+1060º	Felipe Varjão	PRTB		65	0,01%
+1061º	Ezequiel Rodrigues	DC		65	0,01%
+1062º	Guanabara	PV		64	0,01%
+1063º	Tim Daflon	PRTB		64	0,01%
+1064º	Josélia Tavares	PTB		64	0,01%
+1065º	Marcos Lazaroni	MDB		64	0,01%
+1066º	Daniel Portella	PSDB		64	0,01%
+1067º	Katito	SOLIDARIEDADE		64	0,01%
+1068º	Luiz Lucena	PSL		63	0,01%
+1069º	Regina do Terreirao	PTC		63	0,01%
+1070º	Claudio Cairo	SOLIDARIEDADE		63	0,01%
+1071º	Jorge Preto	DEM		63	0,01%
+1072º	Machado Neles	PSC		62	0,01%
+1073º	Shirlei Oliveira	PSD		62	0,01%
+1074º	Barreto Bombeiro	PSL		62	0,01%
+1075º	Cleber Cabeludo	PDT		62	0,01%
+1076º	Cautela	MDB		62	0,01%
+1077º	Edmar Pereira	PRTB		62	0,01%
+1078º	Su Careca	PDT		61	0,01%
+1079º	Eliton Galo	PTC		61	0,01%
+1080º	Nego Prw	PSB		61	0,01%
+1081º	Petit Flaparodias	REDE		61	0,01%
+1082º	Jorge Wallace	DC		61	0,01%
+1083º	Sérgio Mutran Luz	PODE		60	0,01%
+1084º	Cristina Fernandes	CIDADANIA		60	0,01%
+1085º	Lica da Maré	PTB		60	0,01%
+1086º	Carlos Almeida	PSL		60	0,01%
+1087º	Gerson Carmo	PSDB		60	0,01%
+1088º	Arthur Barbosa dos Santos	PDT		59	0,01%
+1089º	Fernando Eletricista	AVANTE		59	0,01%
+1090º	Gari Domingos Fernandes	PMB		59	0,01%
+1091º	Salomão Superação	PODE		59	0,01%
+1092º	Loanda Rufino	PRTB		59	0,01%
+1093º	Alex Moura da Bike	PATRIOTA		59	0,01%
+1094º	Marquinho Simpatia	PMN		59	0,01%
+1095º	Anderson Vilassa	PMB		59	0,01%
+1096º	Fernanda Domingos	DEM		59	0,01%
+1097º	Dr° Ricardo Batista	PSDB		59	0,01%
+1098º	Dudu Campinho	PSDB	INAPTO	59	0,01%
+1099º	Paulo Moura	PP		58	0,01%
+1100º	Comandante Claudio Pedrosa	PRTB		58	0,01%
+1101º	Dingo	DC		58	0,01%
+1102º	Marcia Marques	PSB		58	0,01%
+1103º	Almir Cordeiro	PSC		58	0,01%
+1104º	Paulo Sergio Queiroz	PRTB		58	0,01%
+1105º	Nem do Lava Jato	REPUBLICANOS		58	0,01%
+1106º	Lilian do Guandu	PROS		58	0,01%
+1107º	Professor Luis Claudio Muro	PP		58	0,01%
+1108º	Simone Sartório	PATRIOTA		58	0,01%
+1109º	Safe Sattam	PSL		58	0,01%
+1110º	Bruna Fernanda	PSOL		58	0,01%
+1111º	Luiza	PTC		58	0,01%
+1112º	Bruno Holanda	CIDADANIA		58	0,01%
+1113º	Adilson do Coco	PT		57	0,01%
+1114º	Reinaldo Menezes	PTC		57	0,01%
+1115º	Delmar Rodrigues	PSC		57	0,01%
+1116º	Alexandre Borges	AVANTE		57	0,01%
+1117º	Carlos Nunes	PV		57	0,01%
+1118º	Ernesto Barreto	PSL		57	0,01%
+1119º	Pierre de Jesus	PRTB		57	0,01%
+1120º	Psicóloga Laissa Sobrinho	PROS		57	0,01%
+1121º	Edgar Gimenez	PSDB		57	0,01%
+1122º	Mateus dos Santos	PL		57	0,01%
+1123º	Beth da Saúde	PRTB		56	0,01%
+1124º	Sidney da Otica	PODE		56	0,01%
+1125º	Joelson Ramos	DC		56	0,01%
+1126º	Heloisa Eterna	PSOL		56	0,01%
+1127º	Dra. Edilene	PRTB		56	0,01%
+1128º	Elyane Souza	DEM		56	0,01%
+1129º	Eduardo Acosta Ambientalista	PT		56	0,01%
+1130º	Alex da Ótica	PROS		56	0,01%
+1131º	Jean dos Eventos	PSL		56	0,01%
+1132º	Geninho da Maré	REDE		56	0,01%
+1133º	Sabrina Campos	PSL		56	0,01%
+1134º	Marcílio Santos	PSD		56	0,01%
+1135º	Renato Borges	DEM		56	0,01%
+1136º	Manoel Lima	PDT		55	0,01%
+1137º	Dr Marilza Silverio	SOLIDARIEDADE		55	0,01%
+1138º	Paulão da Saúde	PT		55	0,01%
+1139º	Joel Costa	CIDADANIA		55	0,01%
+1140º	Valtinho de Pilares	PL		55	0,01%
+1141º	Luciana Xavier	PTB		55	0,01%
+1142º	Andre Rangel	PP		55	0,01%
+1143º	Leo Costa	AVANTE		55	0,01%
+1144º	Daniel Marques	PMN		55	0,01%
+1145º	Giuliano Calvet	PODE		55	0,01%
+1146º	Mario Marcio	PSDB		55	0,01%
+1147º	Deyson Thome	PRTB		54	0,01%
+1148º	Ricardo Santamarina	PDT		54	0,01%
+1149º	Marcio Dias	PC DO B		54	0,01%
+1150º	Vivi Rosa	PROS		54	0,01%
+1151º	Sabrina Lirio	NOVO		54	0,01%
+1152º	Rodrigo Montanha	DC		54	0,01%
+1153º	Diego Oliveira	PODE		54	0,01%
+1154º	Marquinho Caraca	AVANTE		53	0,01%
+1155º	Jimmy de Oliveira	PC DO B		53	0,01%
+1156º	Roberto Awdré	PC DO B		53	0,01%
+1157º	George de Farias	DEM		53	0,01%
+1158º	Ana Cristina	PDT		53	0,01%
+1159º	Kennedy Ramos	DC		53	0,01%
+1160º	Marcus Batista	PATRIOTA		52	0,01%
+1161º	Lauro Leoneza	AVANTE		52	0,01%
+1162º	Alex da Farmácia	PV	INAPTO	52	0,01%
+1163º	Jchernicharo	PSL		52	0,01%
+1164º	Marcelinho do Deposito	PL		52	0,01%
+1165º	Mouralidade	PP		52	0,01%
+1166º	Wesley Gustavo	SOLIDARIEDADE		52	0,01%
+1167º	Viviane Vicente	PTC		52	0,01%
+1168º	Pr Matias	PTC		51	0,01%
+1169º	Mario da Saúde	PMB		51	0,01%
+1170º	Josi Tavares	PODE		51	0,01%
+1171º	Debora Pinto	PL		51	0,01%
+1172º	Igor Azevedo	PTC		51	0,01%
+1173º	Maria do Meier Pede Socorro	PODE		50	0,01%
+1174º	Tia Maria	PTC		50	0,01%
+1175º	Marcelo Luz	PSDB		50	0,01%
+1176º	Missionária Bel	PSDB		50	0,01%
+1177º	Aldeniso Oliveira	PT		50	0,01%
+1178º	Ana Paula do Borel	PTC		50	0,01%
+1179º	Diogo Carvalho	PP		50	0,01%
+1180º	Professor Jorge Barros	CIDADANIA		49	0,01%
+1181º	Engenheiro Jairo Aleixo	DEM		49	0,01%
+1182º	Marcos Vinicios	REDE		49	0,01%
+1183º	Otavio da Rei dos Reis	REPUBLICANOS		49	0,01%
+1184º	Comandante Sarmento	PSD		49	0,01%
+1185º	Oswaldinho Pato Roco	PRTB		49	0,01%
+1186º	Ligia Alves	REPUBLICANOS		49	0,01%
+1187º	Hudson Duca	PATRIOTA		49	0,01%
+1188º	Barbosa	SOLIDARIEDADE		49	0,01%
+1189º	Cidinho General	PTC	INAPTO	49	0,01%
+1190º	Suzana Rosa	PSL		49	0,01%
+1191º	Edmar Mucciolo	CIDADANIA		48	0,01%
+1192º	Dr Paulo Cavalcanti	REPUBLICANOS		48	0,01%
+1193º	Bob Beia	PTB		48	0,01%
+1194º	Cláudia Marta da Saúde	PMN		48	0,01%
+1195º	Danusia Thomaz	REPUBLICANOS		48	0,01%
+1196º	Tabata Queiroz	AVANTE		48	0,01%
+1197º	Walner Piu Piu	PDT		47	0,01%
+1198º	Marco Antonio	PSDB		47	0,01%
+1199º	Alfredo Cartilha	PTC		47	0,01%
+1200º	Fatinha do Povo	PODE		47	0,01%
+1201º	Paulo Ganga	MDB		47	0,01%
+1202º	Luci Amadinha	PTC		47	0,01%
+1203º	Rosana Novaes	PRTB		47	0,01%
+1204º	Márcio Lucio	PTC		47	0,01%
+1205º	Patricia de Jesus	PDT		47	0,01%
+1206º	Pastor Nilton Cezar	DC	INAPTO	47	0,01%
+1207º	Marcos Tadeu	PP		47	0,01%
+1208º	Professora Eliana	AVANTE		47	0,01%
+1209º	Fernando Palmares	PSOL		47	0,01%
+1210º	Naudi	PDT		46	0,01%
+1211º	Adeir Apolinario	DC		46	0,01%
+1212º	Ten Corrêa Médico	DEM		46	0,01%
+1213º	Servilho	PTC		46	0,01%
+1214º	Padre Rosendo	DEM		46	0,01%
+1215º	Paulo Chaves	PP		45	0,01%
+1216º	Gilson Bilheo	PDT		45	0,01%
+1217º	Engenheiro Augusto	PSC		45	0,01%
+1218º	Julio Cesar	PMN		45	0,01%
+1219º	Marcelo Soalheiro	PV		45	0,01%
+1220º	Derson	PDT		45	0,01%
+1221º	Thiago Esperante	PSDB		45	0,01%
+1222º	Gabriel Drummond	CIDADANIA		45	0,01%
+1223º	Paulo Roberto	PODE		44	0,01%
+1224º	João Bravak	AVANTE		44	0,01%
+1225º	Marcos José	PV		44	0,01%
+1226º	Regina Mendes Francisco Nunes	PATRIOTA		44	0,01%
+1227º	Alexandre Popó	NOVO		44	0,01%
+1228º	Iracy de Pilares	PL		44	0,01%
+1229º	Simone Amaral	PSL		44	0,01%
+1230º	Professor Thiago	DEM		44	0,01%
+1231º	Graça Figuraça	PTB		43	0,01%
+1232º	Paulo Mattosinhos	PTB		43	0,01%
+1233º	Bispo Mauro Balbino	PROS		43	0,01%
+1234º	Rosa Gleide	REPUBLICANOS		43	0,01%
+1235º	Neuzi Antunes	PSDB		43	0,01%
+1236º	Roberto Madruga	PATRIOTA		43	0,01%
+1237º	Sergio Freitas	PMB		43	0,01%
+1238º	Elba Barcellos	PL		43	0,01%
+1239º	Paulo Sobral	PSC		43	0,01%
+1240º	Gloria Jean	PSL		43	0,01%
+1241º	Robson Gonçalves	DEM		43	0,01%
+1242º	Marcelo Francisco	PRTB		43	0,01%
+1243º	Marcio Duarte	PATRIOTA		43	0,01%
+1244º	Cristina Moraes	PSC		43	0,01%
+1245º	Lucina Orozimbo	DC		43	0,01%
+1246º	Marcia Costa Acari	AVANTE		43	0,01%
+1247º	Anderson Vasques	REDE		43	0,01%
+1248º	Rafael Comunidade	PP		43	0,01%
+1249º	Aguiar	PSD		43	0,01%
+1250º	Iara 13 de Maio	PSC		42	0,01%
+1251º	Roni Kafurenan	PMN		42	0,01%
+1252º	Wilson Vermelho	PP		42	0,01%
+1253º	Mário Gabiru	PTB		42	0,01%
+1254º	Inacio Geraldo	DC		42	0,01%
+1255º	Maristela Mendes	AVANTE		42	0,01%
+1256º	Corrêa Neles	PV		42	0,01%
+1257º	Joao da Pavuna	DC		42	0,01%
+1258º	Ph	SOLIDARIEDADE		42	0,01%
+1259º	André Silva da Rede	REDE		42	0,01%
+1260º	Luzinete da Acessibilidade	PMB		42	0,01%
+1261º	Julio Scarpa	PMN		42	0,01%
+1262º	Junior Almeida	PTB		42	0,01%
+1263º	Rodrigo Bittencourt	PDT		42	0,01%
+1264º	Murilo Tartaglia	PC DO B		42	0,01%
+1265º	Danilo Ferreira	PROS		42	0,01%
+1266º	Gregory de Araújo Toledo	PSDB		42	0,01%
+1267º	Natan Bastos	PATRIOTA		42	0,01%
+1268º	Manoel Gilberto Caçulinha	DEM		41	0,01%
+1269º	Sonia Brum	PROS		41	0,01%
+1270º	Marco Nossar	MDB		41	0,01%
+1271º	Chico Rebello	PTC	INAPTO	41	0,01%
+1272º	Isabel da Limpeza	PP		41	0,01%
+1273º	Marcelo Patrocinio	PL		41	0,01%
+1274º	Sylvio Maximiano	PTC		41	0,01%
+1275º	Klebson Reis	PC DO B		41	0,01%
+1276º	Osmar do Mega Fone	PRTB		40	0,01%
+1277º	Selma Silva	PSD		40	0,01%
+1278º	Valéria Saúde	PSDB		40	0,01%
+1279º	Carlos Oliveira	PDT		40	0,01%
+1280º	Alessandra Seixas	PSD		40	0,01%
+1281º	Vinícius Camargo	PSTU		40	0,01%
+1282º	Nado da Academia	AVANTE		40	0,01%
+1283º	Anna Paula da Enfermagem	SOLIDARIEDADE		40	0,01%
+1284º	Prof Mariza Nobre	PTB		39	0,00%
+1285º	Marilceia Mão Amiga da Colônia	DEM		39	0,00%
+1286º	Willis do Varandão	PP		39	0,00%
+1287º	Silvania da Enfermagem	MDB		39	0,00%
+1288º	Alci Bento	PRTB		39	0,00%
+1289º	Carlos Araújo	PV		39	0,00%
+1290º	Luiz Barbeiro	DC	INAPTO	39	0,00%
+1291º	Elna Müller	PTC		39	0,00%
+1292º	Elzo Araujo (gero)	PROS		39	0,00%
+1293º	Nathalia Regina	SOLIDARIEDADE		39	0,00%
+1294º	Jeane Dames	PSC		39	0,00%
+1295º	Rhay Ramos	PL		39	0,00%
+1296º	Rosemberg Fernandes	PC DO B		38	0,00%
+1297º	Luély Pimentel	PSC		38	0,00%
+1298º	Nisac Brasileiro	SOLIDARIEDADE		38	0,00%
+1299º	Paulinho Penafiel	PTC		38	0,00%
+1300º	Gustavo O Amigão do Rio	REDE		38	0,00%
+1301º	Moisés Messias	PATRIOTA		38	0,00%
+1302º	Robson Gama	PMB		38	0,00%
+1303º	Paulão do Lanche	DC		38	0,00%
+1304º	Marcos Pires	PSDB		38	0,00%
+1305º	Lorena A Morena do Açaí	PROS		38	0,00%
+1306º	Daniela Yin	PODE		38	0,00%
+1307º	Gualberto Piteu	PSTU	INAPTO	37	0,00%
+1308º	Hans Kelsen	PODE		37	0,00%
+1309º	Rudson Gomes	PT		37	0,00%
+1310º	Carlinhos da Comunidade	REDE		37	0,00%
+1311º	Sergio Alves Bombeiro	REDE		37	0,00%
+1312º	Marcia Goés	PATRIOTA		37	0,00%
+1313º	Tânia Mota	PSC		37	0,00%
+1314º	Bebeto	PODE		37	0,00%
+1315º	Flavia Rocha	REDE		37	0,00%
+1316º	Paula Cristina	PMB		37	0,00%
+1317º	Dr Leandro Leal	PTC		37	0,00%
+1318º	Professor Monteiro	PC DO B		36	0,00%
+1319º	Vitor Tavares	PROS		36	0,00%
+1320º	Missionária Marli Drumond	PSC		36	0,00%
+1321º	Paulo Paixao	REDE		36	0,00%
+1322º	Cuca	MDB		36	0,00%
+1323º	Tio Mazinho	DEM		36	0,00%
+1324º	Edinho de Bangu	PTC	INAPTO	36	0,00%
+1325º	Sandra Lima	PSL		36	0,00%
+1326º	Alfredo Brito	PC DO B		36	0,00%
+1327º	Sandra Florian	PC DO B		36	0,00%
+1328º	Sylvio Gouvêa	PSB		36	0,00%
+1329º	Simone A Mulher do Povo	PRTB		36	0,00%
+1330º	Prof Dr Arildo Nerys Junior	PSOL		36	0,00%
+1331º	Lincoln	PDT		35	0,00%
+1332º	Washington Alves	PMN		35	0,00%
+1333º	Carla Aparecida	PMB		35	0,00%
+1334º	Glicia do Mangueiral	PTC		35	0,00%
+1335º	Fia do Borel	PSC		35	0,00%
+1336º	Samim Ozorio	PSD		35	0,00%
+1337º	Pretinho da Fé	PSL		35	0,00%
+1338º	Catia do Vavá	PRTB		35	0,00%
+1339º	Chris Alvarenga	PSL		35	0,00%
+1340º	Tapete	PTC		34	0,00%
+1341º	Professor Maravalho	AVANTE		34	0,00%
+1342º	Cadu Fernandes	DEM		34	0,00%
+1343º	Teo Silveira	PMB		34	0,00%
+1344º	Professor Fabio Guimaraes	PDT		34	0,00%
+1345º	Marianna Valente	AVANTE		34	0,00%
+1346º	Pastor Vanderson	SOLIDARIEDADE		34	0,00%
+1347º	Cristiana Mãe dos Dez Reais	PRTB		34	0,00%
+1348º	Thiago D&apos;este	SOLIDARIEDADE		34	0,00%
+1349º	Eliana Pinheiro	PATRIOTA		33	0,00%
+1350º	Leila do Turismo	SOLIDARIEDADE		33	0,00%
+1351º	Bete Sorriso	AVANTE	INAPTO	33	0,00%
+1352º	Neuzenir Albuquerque	PMB		33	0,00%
+1353º	Zanja	PL		33	0,00%
+1354º	Najara Pogian	PTC		33	0,00%
+1355º	Rebeca Paz	PV		33	0,00%
+1356º	Rejane Reis	PATRIOTA		32	0,00%
+1357º	Bispo Paulo Santos	PMB		32	0,00%
+1358º	Teka Pierrout	AVANTE		32	0,00%
+1359º	Galtier Figueira	PROS		32	0,00%
+1360º	Alexandre Rodrigues	REPUBLICANOS		32	0,00%
+1361º	Gi dos Patins	PMN		32	0,00%
+1362º	Xandinho do Bem	PSC		32	0,00%
+1363º	Joaquim do Queijo Ovo E Pão	SOLIDARIEDADE		31	0,00%
+1364º	Albano Teixeira	PSTU		31	0,00%
+1365º	Terra	PMN		31	0,00%
+1366º	Deusimar da Costa	PC DO B		31	0,00%
+1367º	Roziane Affonso	PSDB		31	0,00%
+1368º	Ronaldo Varejão	PSC		31	0,00%
+1369º	Simone Godinha do Tingui	AVANTE		31	0,00%
+1370º	Kátia Cristina Mond	DEM		31	0,00%
+1371º	Júlio César do Pt	PT		31	0,00%
+1372º	Bruna Coloneze	DEM		31	0,00%
+1373º	David Macedo	PCO	INAPTO	31	0,00%
+1374º	Renice Rocha	DEM		30	0,00%
+1375º	Cesar Augusto Couto	PDT		30	0,00%
+1376º	Sallim Solução Amor No Coração	AVANTE		30	0,00%
+1377º	Humberto Adami	REDE		30	0,00%
+1378º	Silvia Santos	PV		30	0,00%
+1379º	Bim das Ervas	PL		30	0,00%
+1380º	Claudia Almeida	PSL		30	0,00%
+1381º	Tabata Tayar	SOLIDARIEDADE		30	0,00%
+1382º	Gio Capano	PSOL		30	0,00%
+1383º	Wagner Moshe	PDT		30	0,00%
+1384º	Charles Homem Aranha	MDB		30	0,00%
+1385º	Prof Carlos Tarzan	PSDB		29	0,00%
+1386º	Rosane Ferreira	PSD		29	0,00%
+1387º	Jornalista Walter Brito	PDT		29	0,00%
+1388º	Marciano	PATRIOTA		29	0,00%
+1389º	Paulo G	CIDADANIA		29	0,00%
+1390º	Israel Cerqueira	PODE		29	0,00%
+1391º	Dr Luiz Braga	PSL		29	0,00%
+1392º	Graça Lemos	PSL		29	0,00%
+1393º	Economista Atalmir	PT		29	0,00%
+1394º	Paula Porto	PATRIOTA		29	0,00%
+1395º	Carlos Sem Dedo	PROS		29	0,00%
+1396º	Bavily Cunha	PMN		29	0,00%
+1397º	Marcelo Zebra	PP	INAPTO	29	0,00%
+1398º	Fabio Feijó	PMN		29	0,00%
+1399º	Carlos Cordido	PROS		29	0,00%
+1400º	Nory Martins	PL		29	0,00%
+1401º	Dr Felix	PMN	INAPTO	28	0,00%
+1402º	Jorge Gomes	PDT		28	0,00%
+1403º	Môniquinha	PATRIOTA		28	0,00%
+1404º	Ayres Vale	PODE		28	0,00%
+1405º	Rosangela Ribeiro	PC DO B		28	0,00%
+1406º	Professor Villalba	PTC		28	0,00%
+1407º	Vanessa Aguiar	CIDADANIA		28	0,00%
+1408º	Marcelle Lucas	PMN		28	0,00%
+1409º	Marco Rufino	PROS		27	0,00%
+1410º	Alessandra Santos	PTB		27	0,00%
+1411º	Nane Carvalho	SOLIDARIEDADE		27	0,00%
+1412º	Franklin Borges	PRTB		27	0,00%
+1413º	Raquel Muratt	PROS		27	0,00%
+1414º	Thaylla Frazão	PC DO B		27	0,00%
+1415º	Narciso	PSD		27	0,00%
+1416º	Wilson do Metrô	PODE		26	0,00%
+1417º	Leni Moraes	REDE		26	0,00%
+1418º	Beth Oliveira	PTC	INAPTO	26	0,00%
+1419º	Vaneide Carmo	PC DO B		26	0,00%
+1420º	Capitã Cloroquina	AVANTE		26	0,00%
+1421º	Marcília	PP		26	0,00%
+1422º	Monica Barreto	PROS		26	0,00%
+1423º	Ana Teixeira	PROS		26	0,00%
+1424º	Aguinaldo Guigui do Balé	PMB		26	0,00%
+1425º	Renato Santos	DC		26	0,00%
+1426º	Renata Bessa	PT		26	0,00%
+1427º	Marcio de Souza	PATRIOTA		26	0,00%
+1428º	Susana Sanches	MDB		26	0,00%
+1429º	Denis Oliveira	PSC		26	0,00%
+1430º	Suzete Guerreira	PC DO B		25	0,00%
+1431º	Guilherme Baldissara Melodia	DC		25	0,00%
+1432º	Heddy Lamarr	PTC		25	0,00%
+1433º	Roberto Marinho	PROS		25	0,00%
+1434º	Luiz da Silva	PDT		25	0,00%
+1435º	Janaina Barros	PTC		25	0,00%
+1436º	Eliana Borges	AVANTE		25	0,00%
+1437º	Irmã Cristina	PSC		25	0,00%
+1438º	Jean da Grafica	DC		25	0,00%
+1439º	Élbio Pedroso	DEM		24	0,00%
+1440º	Tio Tuninho da Paz	PDT		24	0,00%
+1441º	Iene Belato	PMB		24	0,00%
+1442º	Jardes Ignacio	PSDB		24	0,00%
+1443º	Fernando Villas Boas	PV		24	0,00%
+1444º	Ana Copeira	PSL		24	0,00%
+1445º	Abelardo	PSD		24	0,00%
+1446º	Pastora Sidneia Santos	PTB		24	0,00%
+1447º	Fernando do Bar	PMB		24	0,00%
+1448º	Lucia Lopes	PDT		23	0,00%
+1449º	Sergio Magalhães	PV		23	0,00%
+1450º	Luis Bravo	CIDADANIA		23	0,00%
+1451º	Gerson Machado	PDT	INAPTO	23	0,00%
+1452º	Neidely Farias	AVANTE		23	0,00%
+1453º	Marcy	PSOL		23	0,00%
+1454º	Caçula do Horto	PP		23	0,00%
+1455º	Raposão da Ilha	PMN		23	0,00%
+1456º	Sancler	PL		23	0,00%
+1457º	Irene Accioly	DEM		23	0,00%
+1458º	Josi Andrade	PL		23	0,00%
+1459º	Simone	PRTB		23	0,00%
+1460º	Celia Rios	PATRIOTA		23	0,00%
+1461º	Paula Rubim	SOLIDARIEDADE		23	0,00%
+1462º	Jorge Leal	PT		23	0,00%
+1463º	Padrinho	SOLIDARIEDADE		23	0,00%
+1464º	Rafael Mendes	PL		23	0,00%
+1465º	Marcella Magalhães	PMN		23	0,00%
+1466º	Gerinaldo Levita	PC DO B		22	0,00%
+1467º	Presbitero Reinaldo de Paula	PTB		22	0,00%
+1468º	Lucilia Gonçalves	PSD		22	0,00%
+1469º	Anita Leorne	PT		22	0,00%
+1470º	Evandro Lessa	PC DO B		22	0,00%
+1471º	Henrique Dias	PROS		22	0,00%
+1472º	Tatiana Agda	PTC		22	0,00%
+1473º	Sandoval Tá Lindão	PSC		22	0,00%
+1474º	Ricarte Barros	PTB		22	0,00%
+1475º	Christilie	PROS		22	0,00%
+1476º	Brad Pághanni	NOVO		22	0,00%
+1477º	Lara Tradição	PMN		21	0,00%
+1478º	Carlos Silva	PL		21	0,00%
+1479º	Jorge Saraiva	MDB		21	0,00%
+1480º	Tia Lola	PMB		21	0,00%
+1481º	Elisia Maia	PSTU		21	0,00%
+1482º	Regina Paes	PODE		21	0,00%
+1483º	Pastor Elenilson	DC		21	0,00%
+1484º	Flavia Vieira	PC DO B		21	0,00%
+1485º	Ana Paula Neves	SOLIDARIEDADE	INAPTO	21	0,00%
+1486º	Robson Vandame	AVANTE		21	0,00%
+1487º	Aline Bassi	AVANTE		21	0,00%
+1488º	Luciana Pedroso	PC DO B		21	0,00%
+1489º	Zu Hadad	PSL		20	0,00%
+1490º	Fernando Pinto	PC DO B		20	0,00%
+1491º	Marcia Christian	PTC		20	0,00%
+1492º	Carmem Motta	PMB		20	0,00%
+1493º	Cristina Vigand	DC		20	0,00%
+1494º	Prof Alex	DC		20	0,00%
+1495º	Valeria Nunes	PP		20	0,00%
+1496º	Pr.valcirlei Felipe	PMB		20	0,00%
+1497º	Professora Alaide Bittencourt	PSD		20	0,00%
+1498º	Simone Lima	PT		20	0,00%
+1499º	Tia Jô	PMB		20	0,00%
+1500º	Vicente Lavoro	PMB		20	0,00%
+1501º	Marcia Santos	AVANTE		20	0,00%
+1502º	Juliana Jutkke	PSOL		20	0,00%
+1503º	Diogo Cerqueira	PRTB		20	0,00%
+1504º	Ayres Lopes	SOLIDARIEDADE		20	0,00%
+1505º	Julia Cavalcanti	MDB		20	0,00%
+1506º	Cazuzo	PMN		19	0,00%
+1507º	Jo Araujo	PATRIOTA		19	0,00%
+1508º	Heliete Mendonça	PP		19	0,00%
+1509º	Benedito Cheiro Verde	PMB		19	0,00%
+1510º	Paulo Gordo	PDT		19	0,00%
+1511º	Olivia Cavalcante	PDT		19	0,00%
+1512º	Silvia Costa	PODE		19	0,00%
+1513º	Agnus do Povo	PDT		19	0,00%
+1514º	Ricardo Maratona	PSD		19	0,00%
+1515º	Tigre	PT		18	0,00%
+1516º	Cris Patriota	PATRIOTA		18	0,00%
+1517º	Gilvan	PL		18	0,00%
+1518º	Mariza Fernandes Costureira	PDT		18	0,00%
+1519º	Indio Jendiroba	PATRIOTA		18	0,00%
+1520º	Rildo Oliveira	PRTB		18	0,00%
+1521º	Vivi Gomes	PSL		18	0,00%
+1522º	Ronaldo Mendes	PSDB		18	0,00%
+1523º	Cris da Feira	PATRIOTA		18	0,00%
+1524º	Fabii Xavier	PODE		18	0,00%
+1525º	Dandara	PC DO B		18	0,00%
+1526º	Silvio Luis	PRTB		18	0,00%
+1527º	Borges	PSOL		17	0,00%
+1528º	Bandeira de Guaratiba	PRTB		17	0,00%
+1529º	Cláudio Vovô	PC DO B		17	0,00%
+1530º	Ribamar Santos	PT		17	0,00%
+1531º	Samuel Souza	REDE		17	0,00%
+1532º	Wagner Mariosa	PDT		17	0,00%
+1533º	Monica Já	PSC		17	0,00%
+1534º	Dr Rubinho da Divinéia	PT	INAPTO	17	0,00%
+1535º	Norma Demuner	PSD	INAPTO	17	0,00%
+1536º	Tatiana Braga	AVANTE		17	0,00%
+1537º	Henrique Lott	CIDADANIA		17	0,00%
+1538º	Nelson Costa Silva	PP		16	0,00%
+1539º	Eliane Stellet	PC DO B		16	0,00%
+1540º	Manoel Matos	PSC		16	0,00%
+1541º	Gilmar Nascimento	PL		16	0,00%
+1542º	Jô Dutra	PSB		16	0,00%
+1543º	Rosana Correa	REPUBLICANOS		16	0,00%
+1544º	Edi Reis	PDT		16	0,00%
+1545º	Pastora Kátia	PTC		16	0,00%
+1546º	Valle	PTB		16	0,00%
+1547º	Allan Negodrama	DEM		16	0,00%
+1548º	Tia Val da Saúde	REPUBLICANOS		15	0,00%
+1549º	Gelson 20 Tinho	PC DO B		15	0,00%
+1550º	Elienai Duval	PMB		15	0,00%
+1551º	Márcia Moreira	PROS		15	0,00%
+1552º	Lia do Davi	PROS		15	0,00%
+1553º	Geraldo Meneses	PT		15	0,00%
+1554º	Alexandre Salles	PSC		15	0,00%
+1555º	Viviane Macedo	PSB		15	0,00%
+1556º	Simone Nascimento	PSOL		15	0,00%
+1557º	Dra Liliane Chiapetta	CIDADANIA		15	0,00%
+1558º	Antonio da Luz	SOLIDARIEDADE		15	0,00%
+1559º	Gessica	PRTB		15	0,00%
+1560º	Iolanda Preta	PTB		14	0,00%
+1561º	Sonia Elizabeth	PDT		14	0,00%
+1562º	Marcelo Moreira	DEM		14	0,00%
+1563º	Josias Moreira	PDT		14	0,00%
+1564º	Lara Rodrigues	DC		14	0,00%
+1565º	Roseli Brito	REDE		14	0,00%
+1566º	Marcelo Amorim Pinto Lost	PSDB		14	0,00%
+1567º	Ricardo do Salão	PMB		14	0,00%
+1568º	Condutor Jean	PODE		14	0,00%
+1569º	Marcio Gouveia	PSD		14	0,00%
+1570º	Viviane Claro	SOLIDARIEDADE		14	0,00%
+1571º	Debora Moraes	REPUBLICANOS		14	0,00%
+1572º	Zé da Vó	PMB		13	0,00%
+1573º	Biragol	PSDB		13	0,00%
+1574º	Silas Ribeiro	PSDB		13	0,00%
+1575º	Moraes	PTC		13	0,00%
+1576º	Ivanilda Costa	PDT		13	0,00%
+1577º	Carlos Vieira	PRTB		13	0,00%
+1578º	Instrutor Bosoroy	PTB		13	0,00%
+1579º	Surfista Zé Salles	PMN		13	0,00%
+1580º	André Bilú	PROS		13	0,00%
+1581º	Rosangela Andrade	PATRIOTA		13	0,00%
+1582º	Kellly Gama	PROS		13	0,00%
+1583º	Day Campos	PL		13	0,00%
+1584º	Apóstolo João Alves	REPUBLICANOS		12	0,00%
+1585º	Luis A Lenda	PSC		12	0,00%
+1586º	Leo Egrejas	PC DO B		12	0,00%
+1587º	Cem Por Cento Tranquilo	PMN		12	0,00%
+1588º	Ester Sales	PMB		12	0,00%
+1589º	Rose Terra	PROS		12	0,00%
+1590º	Fulvya Yara	PMB		12	0,00%
+1591º	Jackeson Lacerda	REDE		12	0,00%
+1592º	Sobral	PL		12	0,00%
+1593º	Denise Oliveira	REDE		12	0,00%
+1594º	Rachel Ferraz	PMB		12	0,00%
+1595º	Helen Barreto	PODE		12	0,00%
+1596º	Edson Sales	PDT		12	0,00%
+1597º	Dudu da Penha	PC DO B		12	0,00%
+1598º	Terezinha da Coroa	PROS		11	0,00%
+1599º	Sergio Goes	PP		11	0,00%
+1600º	Evelin Angelo	PSB		11	0,00%
+1601º	Germaine Costa	PATRIOTA		11	0,00%
+1602º	Mara Siqueira	PMN		11	0,00%
+1603º	Moises da Farmácia	REPUBLICANOS	INAPTO	11	0,00%
+1604º	Timoninha da Cdd	AVANTE		11	0,00%
+1605º	Carlos da Mare	PDT	INAPTO	11	0,00%
+1606º	Vanise Nunes	PC DO B		11	0,00%
+1607º	Cida Loureiro	PRTB		11	0,00%
+1608º	Wlavira	SOLIDARIEDADE		11	0,00%
+1609º	Rosana Couto	PODE	INAPTO	11	0,00%
+1610º	Armanes	CIDADANIA		11	0,00%
+1611º	Cida Melo	PROS		11	0,00%
+1612º	Franklin Jansen	MDB		11	0,00%
+1613º	Luciana Cabral	DC		11	0,00%
+1614º	Marco França	PATRIOTA		11	0,00%
+1615º	Erik Mattoso	PP		11	0,00%
+1616º	Elaine Gonçalves	PSB		11	0,00%
+1617º	Claudia Amada	PROS		11	0,00%
+1618º	Radialista Luciana de Oliveira	CIDADANIA		11	0,00%
+1619º	Tia Rita	PTB		11	0,00%
+1620º	Luisinho do Mma	PRTB		11	0,00%
+1621º	Paulo Renova	PSDB		11	0,00%
+1622º	Amanda Moura	PODE		11	0,00%
+1623º	Igor Diniz	PC DO B		11	0,00%
+1624º	Marilza de Bangu	PMN		10	0,00%
+1625º	Sandra Social	PSD		10	0,00%
+1626º	Soter Campbell	DEM		10	0,00%
+1627º	Sonia Melo	PROS		10	0,00%
+1628º	Isla dos Caldos	PMN		10	0,00%
+1629º	Dunorte	PODE		9	0,00%
+1630º	Eliomar	PC DO B		9	0,00%
+1631º	Fabinho Mandacaru	PMB		9	0,00%
+1632º	Helio Leitão	PSC		9	0,00%
+1633º	Mais Velho do Moto Taxi	PC DO B		9	0,00%
+1634º	Memorya	PMB		9	0,00%
+1635º	Danda	PL		9	0,00%
+1636º	Andrea Loureiro Abal	REPUBLICANOS		9	0,00%
+1637º	Valzinha do Jorge Turco	PTC		9	0,00%
+1638º	Ana Azevedo	PATRIOTA		9	0,00%
+1639º	Rosa Costa	REPUBLICANOS		9	0,00%
+1640º	Daniel Bahia	PMN		9	0,00%
+1641º	Aline Melo	SOLIDARIEDADE		9	0,00%
+1642º	Ivana Corrêa	PTB		9	0,00%
+1643º	Nathalia Matuch	DC		9	0,00%
+1644º	Guinho Sigilião	PODE		9	0,00%
+1645º	Nilton Simões	PMN		8	0,00%
+1646º	Tereza Nascimento	PTC		8	0,00%
+1647º	Luiz Ceia	PL		8	0,00%
+1648º	Gloria Maria	DC		8	0,00%
+1649º	Nizete	REPUBLICANOS		8	0,00%
+1650º	Rejane Santos	PL		8	0,00%
+1651º	Elaine Andrade	PMB		8	0,00%
+1652º	Maicon Pereira	AVANTE		8	0,00%
+1653º	Igor de Freitas	PCO	INAPTO	8	0,00%
+1654º	Silvio Lacerda	SOLIDARIEDADE		7	0,01%
+1655º	Enéias	PMB		7	0,01%
+1656º	Professora Eliane	PSC		7	0,01%
+1657º	Alberto Castilho	PL		7	0,01%
+1658º	Jo Benedicto	MDB		7	0,01%
+1659º	Tatiana Negreiros	PTB		7	0,01%
+1660º	Andreia Silva	PSC		7	0,01%
+1661º	Carla Flores	PV		7	0,01%
+1662º	Vigilante Lemos	PMB		7	0,01%
+1663º	Juliana Cruz	PSB		7	0,01%
+1664º	Bianca Amorim	PL		7	0,01%
+1665º	Ana Paula Palagar	PMB		7	0,01%
+1666º	Nathália de Miranda	PATRIOTA		7	0,01%
+1667º	Alceni Caetano	PC DO B	INAPTO	6	0,01%
+1668º	Céli Modesto	DEM		6	0,01%
+1669º	João Batista	PSDB		6	0,01%
+1670º	Messias Pqd	PSC		6	0,01%
+1671º	Xangai	PTB		6	0,01%
+1672º	Ramirez Duarte	PSC		6	0,01%
+1673º	Ariel Matos	PODE		6	0,01%
+1674º	Ailton Ramos	PODE		5	0,01%
+1675º	Eliane Cabeleireira	PODE		5	0,01%
+1676º	Frank Maia	PP		5	0,01%
+1677º	Professora Rosane	PC DO B		5	0,01%
+1678º	Alemão do Tuiuti	PSD		5	0,01%
+1679º	Thelma Maria	PCO	INAPTO	5	0,01%
+1680º	Luciana Faccio	PODE		5	0,01%
+1681º	Rafael Canaan	PC DO B		5	0,01%
+1682º	Maria Deia	PMB		4	0,01%
+1683º	India	PDT		4	0,01%
+1684º	Roberto Martins	PODE	INAPTO	4	0,01%
+1685º	Israel Atleta	PMB		4	0,01%
+1686º	Juciara Fontoura	PROS		4	0,01%
+1687º	Ivana Paranhos	PSD		4	0,01%
+1688º	Fernanda Lobo	PSDB		4	0,01%
+1689º	Barbara Cristina	DC		4	0,01%
+1690º	Lais	PL		4	0,01%
+1691º	J Reis Dualibi	PMN		3	0,01%
+1692º	Lici Fernandes	DC		3	0,01%
+1693º	Paulinho Cerqueira	PP		3	0,01%
+1694º	Andreia Carvalho	PP		3	0,01%
+1695º	Cleide dos Santos	PODE		3	0,01%
+1696º	Rita Cassia	PP		3	0,01%
+1697º	Felipe Souza	PC DO B	INAPTO	3	0,01%
+1698º	Mariana Leonez	PRTB		3	0,01%
+1699º	Vinicius Rodrigues	PCO	INAPTO	3	0,01%
+1700º	Marron	DC		2	0,01%
+1701º	Nice da Ilha	PRTB		2	0,01%
+1702º	Guiomar Lacerda	PMN		2	0,01%
+1703º	Vovó Zezé	PMN		2	0,01%
+1704º	Papai Noel do Cais do Porto	PMB		2	0,01%
+1705º	Silvestre Poitier	PSL		2	0,01%
+1706º	Nunes	PDT		2	0,01%
+1707º	Leila Dias	PSDB		2	0,01%
+1708º	Eduardo Jesus	PTC		2	0,01%
+1709º	Aralton Jr.	PP		2	0,01%
+1710º	Vania Martins	PATRIOTA		2	0,01%
+1711º	Anderson Mello	PMB		2	0,01%
+1712º	Eriksson	PRTB		2	0,01%
+1713º	Michele Prado	DC		2	0,01%
+1714º	Janine Heine	PSD		2	0,01%
+1715º	Bibino	SOLIDARIEDADE		2	0,01%
+1716º	Maycon Rodrigues	AVANTE		2	0,01%
+1717º	Ana Nery	PCO	INAPTO	2	0,01%
+1718º	Luan Monteiro	PCO	INAPTO	2	0,01%
+1719º	Rita de Cássia	DC		1	0,01%
+1720º	Ana Paula Mengual	PSD		1	0,01%
+1721º	Lily	PRTB		1	0,01%
+1722º	Valeria Vilela	MDB		1	0,01%
+1723º	Angelica Moraes	SOLIDARIEDADE		1	0,01%
+1724º	India do Knove	PTC		1	0,01%
+1725º	Nicole Leiroz	PSC		1	0,01%
+1726º	Pimentel	PRTB		0	00.00%
+1727º	Pastor Cezar Sant Anna	DC		0	00.00%
+1728º	Gisele da Calren	SOLIDARIEDADE		0	00.00%
+1729º	Vanessa	PRTB		0	00.00%
+1730º	Tininha 100% Comunidade	PODE	INAPTO	0	00.00%
+1731º	Kiko Santos	PV		0	00.00%
+1732º	Rafael Vargas Rv	PSDB		0	00.00%
+1733º	Ariel Martins	PODE		0	00.00%
+1734º	Gabriel Kemmer	PROS		0	00.00%
+1735º	Isabelle Semeão	PRTB		0	00.00%
